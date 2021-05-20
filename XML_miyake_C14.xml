@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>THERS.ISEE</site_id>
+    <content sequence="1">
+      # 
+      <doi>10.34515/DATA.C14-00001</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_C14-00001.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Carbon-14 Data: a single-year cosmic ray event at 5410 BCE</title>
+          <subtitle></subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">cosmic ray event at 5410 BCE</subject>
+        <subject lang="en">carbon-14</subject>
+        <subject lang="en">tree rings</subject>
+        <subject lang="en">cosmogenic nuclide</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Miyake</last_name>
+            <first_name>Fusa</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University, Japan</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-8002-9601</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Wacker</last_name>
+            <first_name>Lukas</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Laboratofy for Ion Beam Physics, ETH Zürich, Switzerland</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-8215-2678</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2021</year>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+          </names>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The initial release</variation>
+        <version>V01</version>
+      </edition>
+      <format_list>
+        <format></format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References" title="Miyake, F., I.P. Panyushkina, A.J.T. Jull, F. Adolphi, N. Brehm, S. Helama, K. Kanzawa, T. Moriya, et al. (2021), A single-year cosmic ray event at 5410 BCE registered in 14C of tree rings, Geophys. Res. Lett., in press.">10.1029/2021GL093419</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued"> 2021-05-01 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">14C concentrations of wood specimens measured by Accelerator Mass Spectrometry (AMS)</resource_type>
+      <rights_list>
+        <rights uri="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">Information of wood specimens for the California, Finlnad, and Switzerland series: (1) Pinus longaeva specimen 1971#059 from the Methuselah Walk site in the White Mountains of California, U.S. (37.3794°N, 118.1654°W, 3094 a.s.l.), (2) Pinus sylvestris specimen from Finnish Lapland (69.26°N, 27.40°E, 199 a.s.l.), and (3) Larix decidua Mill. specimen from the forefield of the Unteraar glacier, Switzerland (46°34’ N, 8°15’ E, 1930 m a.s.l.).
+The 14C concentrations in the California, Finnish, and Switzerland specimens were measured at ETH Zürich and Yamagata University (YU-AMS), at YU-AMS, and at ETH Zürich, respectively.</description>
+      </description_list>
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point></geolocation_point>
+        </geolocation>
+        <geolocation>
+          <geolocation_point></geolocation_point>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+        </fund>
+      </fund_list>
+
+      <isas_citation>Miyake, F. and L. Wacker, Carbon-14 Data: a single-year cosmic ray event at 5410 BCE, DOI:10.34515/DATA.C14-00001, 2021.</isas_citation>
+      <isas_metadata_date_list>
+        <isas_metadata_date type="Issued">2021-05-01</isas_metadata_date>
+      </isas_metadata_date_list>
+
+    </content>
+  </body>
+</root>
