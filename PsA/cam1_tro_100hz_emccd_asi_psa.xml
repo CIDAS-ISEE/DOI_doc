@@ -124,6 +124,13 @@
            <award_number>15H05747</award_number>
         </fund>
       </fund_list>
+      <isas_data_list>
+      <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/psa-gnd/pub/raw/cam1/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
+      </isas_data_list>
+      <isas_citation>Hosokawa et al. (2021), A ground-based instrument suite for integrated high-time resolution measurements of pulsating aurora with Arase, doi:10.1002/essoar.10504721.1</isas_citation>
+      <isas_metadata_date_list>
+        <isas_metadata_date type="Issued">2021-06-10</isas_metadata_date>
+      </isas_metadata_date_list>
     </content>
   </body>
 </root>
