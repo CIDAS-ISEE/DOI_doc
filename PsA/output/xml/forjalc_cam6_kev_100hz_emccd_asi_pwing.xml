@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>THERS.ISEE</site_id>
+    <content sequence="1">
+      # 0022: Kevo
+      # 0006: Aurora and airglow
+      # 0206: EMCCD Camera, Cam ID 6 (100 Hz)
+      <doi>10.34515/DATA.GND-0022-0006-0206_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0022-0006-0206_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>100 Hz EMCCD all-sky camera data of PWING project at the Kevo station</title>
+          <subtitle>100 Hz EMCCD ASI data at KEV</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">Optical observation of aurora</subject>
+        <subject lang="en">All-sky imager data</subject>
+        <subject lang="en">100 Hz raw image</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Miyoshi</last_name>
+            <first_name>Yoshizumi</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University, Japan</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-7998-1240</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Kataoka</last_name>
+            <first_name>Ryuho</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">National Institute of Polar Research, Japan</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-9400-1765</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Hosokawa</last_name>
+            <first_name>Keisuke</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">University of Electro-Communications, Japan</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-7389-7128</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>01</month>
+        <day>27</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+          </names>
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>National Institute of Polar Research</first_name>
+          </names>
+        </contributor>
+        <contributor sequence="3" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>University of Electro-Communications</first_name>
+          </names>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use, containing 100 Hz sampling raw all-sky image data</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>RAW</format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References">Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160, doi: 10.1186/s40623-017-0745-9.</related_content>
+        <related_content type="DOI" relation="References">Hosokawa et al. (2021), A ground-based instrument suite for integrated high-time resolution measurements of pulsating aurora with Arase, doi:10.1002/essoar.        10504721.1</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued"> 2021-05-31 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">100 Hz sampling raw all-sky image data</resource_type>
+      <rights_list>
+        <rights uri="https://ergsc.isee.nagoya-u.ac.jp/psa-gnd/pub/rules-of-the-road_psa-pwing.pdf">Rules-of-the-Road for PsA/PWING EMCCD Camera + PsA Magnetometer</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">The dataset includes 100 Hz sampling optical intensity data from the EMCCD camera, which are archived in the raw format data files. The data files can be accessed with various data analysis software such as SPEDAS as well as with web browsers.</description>
+      </description_list>
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>69.76 27.01</geolocation_point>
+          <geolocation_place>Kevo, Finland</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+           <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+           <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+    </content>
+  </body>
+</root>
