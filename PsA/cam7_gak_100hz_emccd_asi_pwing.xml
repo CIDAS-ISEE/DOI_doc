@@ -98,8 +98,8 @@
         <format>RAW</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References">Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160, doi: 10.1186/s40623-017-0745-9.</related_content>
-        <related_content type="DOI" relation="References">Hosokawa et al. (2021), A ground-based instrument suite for integrated high-time resolution measurements of pulsating aurora with Arase, doi:10.1002/essoar.        10504721.1</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160">10.1186/s40623-017-0745-9</related_content>
+        <related_content type="DOI" relation="References" title="Hosokawa et al. (2021), A ground-based instrument suite for integrated high-time resolution measurements of pulsating aurora with Arase">10.1002/essoar.10504721.1</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -125,6 +125,14 @@
            <award_number>16H06286</award_number>
         </fund>
       </fund_list>
+      <isas_data_list>
+      <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/psa-gnd/pub/raw/cam7/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
+      </isas_data_list>
+      <isas_citation>Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160, doi: 10.1186/s40623-017-0745-9.</isas_citation>
+      <isas_citation>Hosokawa et al. (2021), A ground-based instrument suite for integrated high-time resolution measurements of pulsating aurora with Arase, doi:10.1002/essoar.10504721.1</isas_citation>
+      <isas_metadata_date_list>
+        <isas_metadata_date type="Issued">2021-06-10</isas_metadata_date>
+      </isas_metadata_date_list>
     </content>
   </body>
 </root>
