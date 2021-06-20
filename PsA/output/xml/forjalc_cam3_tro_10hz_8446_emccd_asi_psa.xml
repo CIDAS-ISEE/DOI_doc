@@ -97,7 +97,7 @@
         <format>RAW</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References">Hosokawa et al. (2021), A ground-based instrument suite for integrated high-time resolution measurements of pulsating aurora with Arase, doi:10.1002/essoar.10504721.1</related_content>
+        <related_content type="DOI" relation="References">10.1002/essoar.10504721.1</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -123,6 +123,9 @@
            <award_number>15H05747</award_number>
         </fund>
       </fund_list>
+      
+      
+      
     </content>
   </body>
 </root>
