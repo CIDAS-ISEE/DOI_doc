@@ -1,0 +1,120 @@
+<!-- The sample XML file for DOI registration in ISEE (2020.08 ver.)-->
+<root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <!-- ##########  HINODE FLARE CATALOG V01    ########## -->
+    <content sequence="1">
+      <doi>10.34515/CAT.HINODE-00000</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/CAT_HINODE-00000.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Hinode Flare Catalog </title>
+          <subtitle> Solar flares during the Hinode operation period </subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Hinode</subject>
+        <subject lang="en">Sun</subject>
+        <subject lang="en">Solar flare</subject>
+        <subject lang="en">GOES</subject>
+        <subject lang="en">RHESSI</subject>
+        <subject lang="en">NoRH</subject>
+        <subject lang="en">Suzaku</subject>
+        <subject lang="en">DARTS</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Satoshi</last_name>
+            <first_name>Masuda</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5037-9758</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Kyoko</last_name>
+            <first_name>Watanabe</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">National Defense Academy of Japan</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0003-0321-7881</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Tomonori</last_name>
+            <first_name>Segawa</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="3" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">
+            </id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2011</year>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">Hinode Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="Creator and Distributor">
+          <names lang="en">
+            <first_name>Hinode Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+          </names>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>
+        </variation>
+        <version>
+        </version>
+      </edition>
+      <format_list>
+        <format>ASCII text, PDF, and link</format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References" title="Watanabe, K., S. Masuda, and T. Segawa, Hinode Flare Catalog, Solar Physics, 279, 317-322, 2012">10.1007/s11207-012-9983-y </related_content>
+        <related_content type="WEB" relation="HasInfo" title="Hinode Science Center at Nagoya">https://hinode.isee.nagoya-u.ac.jp/index.shtml.en</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Updated">2021-05-07</date>
+      </date_list>
+      <resource_type type="Catalog">Flare Catalog</resource_type>
+      <rights_list>
+        <rights uri="https://hinode.isee.nagoya-u.ac.jp/flare_catalogue/index.html">Examples of Acknowledgement </rights>
+        <rights uri="http://www.isas.jaxa.jp/en/researchers/data-policy/">ISAS Data Policy</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">The catalog contains the solar flares during the Hinode operational period with the information such as GOES X-ray class, start-peak-end time, flare lcation and so forth.</description>
+      </description_list>
+      <isas_data_list>
+        <isas_data url="https://hinode.isee.nagoya-u.ac.jp/flare_catalogue/index.html">Directory of the catalog</isas_data>
+      </isas_data_list>
+      <isas_citation>Masuda, S., K. Watanabe, and T. Segawa, Hinode Flare Catalog, DOI:10.34515/CAT.HINODE-00000, 2021.
+      </isas_citation>
+      <isas_metadata_date_list>
+        <isas_metadata_date type="Issued">2021-06-21</isas_metadata_date>
+      </isas_metadata_date_list>
+    </content>
+    <!-- ##########   HINODE FLARE CATALOG V01   ########## -->
+  </body>
+</root>
