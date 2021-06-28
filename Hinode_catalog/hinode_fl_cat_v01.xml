@@ -8,10 +8,10 @@
   </head>
   <body>
     <site_id>SI/THERS.ISEE</site_id>
-    <!-- ##########  HINODE FLARE CATALOG V01    ########## -->
+    <!-- ##########  HINODE FLARE CATALOGUE V01    ########## -->
     <content sequence="1">
-      <doi>10.34515/CAT.HINODE-00000</doi>
-      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/CAT_HINODE-00000.html</url>
+      <doi>10.34515/CATALOG.HINODE-00000</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/CATALOG_HINODE-00000.html</url>
       <title_list>
         <titles lang="en">
           <title>Hinode Flare Catalogue </title>
@@ -109,10 +109,10 @@
       <isas_data_list>
         <isas_data url="https://hinode.isee.nagoya-u.ac.jp/flare_catalogue/index.html">Directory of the catalogue</isas_data>
       </isas_data_list>
-      <isas_citation>Masuda, S., K. Watanabe, and T. Segawa, Hinode Flare Catalogue, DOI:10.34515/CAT.HINODE-00000, 2021.
+      <isas_citation>Masuda, S., K. Watanabe, and T. Segawa, Hinode Flare Catalogue, DOI:10.34515/CATALOG.HINODE-00000, 2021.
       </isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2021-06-22</isas_metadata_date>
+        <isas_metadata_date type="Issued">2021-06-28</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <!-- ##########   HINODE FLARE CATALOGUE V01   ########## -->
