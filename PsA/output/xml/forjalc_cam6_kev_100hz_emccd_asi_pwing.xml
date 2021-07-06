@@ -6,7 +6,7 @@
     <request_kind>01</request_kind>
   </head>
   <body>
-    <site_id>THERS.ISEE</site_id>
+    <site_id>SI/THERS.ISEE</site_id>
     <content sequence="1">
       # 0022: Kevo
       # 0006: Aurora and airglow
