@@ -42,7 +42,7 @@
           <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
         </researcher_id>
       </creator>
-      <creator sequence="1" type="person">
+      <creator sequence="2" type="person">
         <names lang="en">
           <last_name>Connors</last_name>
           <first_name>Martin</first_name>
@@ -54,7 +54,7 @@
           <id_code type="ORCID">https://orcid.org/0000-0003-0634-9599</id_code>
         </researcher_id>
       </creator>
-      <creator sequence="2" type="person">
+      <creator sequence="3" type="person">
         <names lang="en">
           <last_name>Shinbori</last_name>
           <first_name>Atsuki</first_name>
@@ -113,10 +113,8 @@
       </description_list>
       <geolocation_list>
         <geolocation>
-          <geolocation_point>54.60</geolocation_point>
-        </geolocation>
-        <geolocation>
-          <geolocation_point>246.36</geolocation_point>
+          <geolocation_point>54.60 246.36</geolocation_point>
+          <geolocation_place>Athabasca, Canada</geolocation_place>
         </geolocation>
       </geolocation_list>
       <fund_list>

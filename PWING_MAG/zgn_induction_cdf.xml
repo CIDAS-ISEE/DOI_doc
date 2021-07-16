@@ -95,10 +95,8 @@
 			</description_list>
 			<geolocation_list>
 				<geolocation>
-					<geolocation_point>66.78</geolocation_point>
-				</geolocation>
-				<geolocation>
-					<geolocation_point>123.37</geolocation_point>
+					<geolocation_point>66.78 123.37</geolocation_point>
+          				<geolocation_place>Zhigansk, Russia</geolocation_place>
 				</geolocation>
 			</geolocation_list>
 			<fund_list>

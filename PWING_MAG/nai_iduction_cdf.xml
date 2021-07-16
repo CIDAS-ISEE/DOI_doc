@@ -36,7 +36,7 @@
 						<id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
 					</researcher_id>
 				</creator>
-				<creator sequence="1" type="person">
+				<creator sequence="2" type="person">
 					<names lang="en">
 						<last_name>Tsutomu</last_name>
 						<first_name>Nagatsuma</first_name>
@@ -48,7 +48,7 @@
 						<id_code type="ORCID">https://orcid.org/0000-0002-9334-0738</id_code>
 					</researcher_id>
 				</creator>
-				<creator sequence="2" type="person">
+				<creator sequence="3" type="person">
 					<names lang="en">
 						<last_name>Shinbori</last_name>
 						<first_name>Atsuki</first_name>
@@ -107,10 +107,8 @@
 			</description_list>
 			<geolocation_list>
 				<geolocation>
-					<geolocation_point>56.54</geolocation_point>
-				</geolocation>
-				<geolocation>
-					<geolocation_point>298.269</geolocation_point>
+					<geolocation_point>56.54 298.269</geolocation_point>
+          				<geolocation_place>Nain, Canada</geolocation_place>
 				</geolocation>
 			</geolocation_list>
 			<fund_list>
