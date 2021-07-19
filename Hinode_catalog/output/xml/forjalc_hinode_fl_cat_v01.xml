@@ -60,10 +60,6 @@
           <affiliation>
             <affiliation_name sequence="3" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
-          <researcher_id>
-            <id_code type="ORCID">
-            </id_code>
-          </researcher_id>
         </creator>
       </creator_list>
       <publication_date>
@@ -74,20 +70,14 @@
         <location>JPN</location>
       </publisher>
       <contributor_list>
-        <contributor sequence="1" type="institute" contributor_type="Creator and Distributor">
+        <contributor sequence="1" type="institute" contributor_type="Distributor">
           <names lang="en">
             <first_name>Hinode Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
           </names>
         </contributor>
       </contributor_list>
-      <edition>
-        <variation>
-        </variation>
-        <version>
-        </version>
-      </edition>
       <format_list>
-        <format>ASCII text, PDF, and link</format>
+        <format>text, PDF, and link</format>
       </format_list>
       <relation_list>
         <related_content type="DOI" relation="References">10.1007/s11207-012-9983-y </related_content>
@@ -97,7 +87,7 @@
       <date_list>
         <date type="Updated">2021-05-07</date>
       </date_list>
-      <resource_type type="Catalogue">Flare Catalogue</resource_type>
+      <resource_type type="Other">Flare Catalogue</resource_type>
       <rights_list>
         <rights uri="https://hinode.isee.nagoya-u.ac.jp/flare_catalogue/index.html">Examples of Acknowledgement </rights>
         <rights uri="http://www.isas.jaxa.jp/en/researchers/data-policy/">ISAS Data Policy</rights>
