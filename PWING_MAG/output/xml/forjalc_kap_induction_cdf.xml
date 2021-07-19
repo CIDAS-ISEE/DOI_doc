@@ -6,10 +6,10 @@
 		<request_kind>01</request_kind>
 	</head>
 	<body>
-		<site_id>THERS.ISEE</site_id>
+		<site_id>SI/THERS.ISEE</site_id>
 		<content sequence="1">
 			<doi>10.34515/DATA.GND-0021-0002-0101_v01</doi>
-			<url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.GND-0021-0002-0101_v01</url>
+			<url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.GND-0021-0002-0101_v01.html</url>
 			<title_list>
 				<titles lang="en">
 					<title>64Hz induction magnetometer data at the Kapuskasing station in Common Data Format</title>
@@ -35,7 +35,7 @@
 						<id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
 					</researcher_id>
 				</creator>
-				<creator sequence="1" type="person">
+				<creator sequence="2" type="person">
 					<names lang="en">
 						<last_name>Tsutomu</last_name>
 						<first_name>Nagatsuma</first_name>
@@ -47,7 +47,7 @@
 						<id_code type="ORCID">https://orcid.org/0000-0002-9334-0738</id_code>
 					</researcher_id>
 				</creator>
-				<creator sequence="2" type="person">
+				<creator sequence="3" type="person">
 					<names lang="en">
 						<last_name>Shinbori</last_name>
 						<first_name>Atsuki</first_name>
@@ -89,9 +89,9 @@
 				<format>CDF</format>
 			</format_list>
 			<relation_list>
-				<related_content type="DOI" relation="References">Shiokawa, K., R. Nomura, K. Sakaguchi, Y. Otsuka, Y. Hamaguchi, M. Satoh, Y. Katoh, Y. Yamamoto, B. M. Shevtsov, S. Smirnov, I. Poddelsky, and M. Connors (2010), The STEL induction magnetometer network for observation of high-frequency geomagnetic pulsations, Earth Planets Space, 62(6), 517-524, doi:10.5047/eps.2010.05.003.</related_content>
-				<related_content type="DOI" relation="References">Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160, doi: 10.1186/s40623-017-0745-9.</related_content>
-				<related_content type="URL" relation="IsDecribedby">http://www.isee.nagoya-u.ac.jp/dimr/PWING/en/</related_content>
+				<related_content type="DOI" relation="References">10.5047/eps.2010.05.003</related_content>
+				<related_content type="DOI" relation="References">10.1186/s40623-017-0745-9</related_content>
+				<related_content type="URL" relation="IsDescribedBy">http://www.isee.nagoya-u.ac.jp/dimr/PWING/en/</related_content>
 			</relation_list>
 			<content_language>en</content_language>
 			<date_list>
@@ -106,10 +106,8 @@
 			</description_list>
 			<geolocation_list>
 				<geolocation>
-					<geolocation_point>49.39</geolocation_point>
-				</geolocation>
-				<geolocation>
-					<geolocation_point>277.81</geolocation_point>
+					<geolocation_point>49.39 277.81</geolocation_point>
+          				<geolocation_place>Kapuskasing, Canada</geolocation_place>
 				</geolocation>
 			</geolocation_list>
 			<fund_list>
@@ -119,6 +117,10 @@
 					<award_number>16H06286</award_number>
 				</fund>
 			</fund_list>
+						
+       		
+       		
+       		
 		</content>
 	</body>
 </root>

@@ -92,7 +92,7 @@
 			<relation_list>
 				<related_content type="DOI" relation="References" title="Shiokawa, K., R. Nomura, K. Sakaguchi, Y. Otsuka, Y. Hamaguchi, M. Satoh, Y. Katoh, Y. Yamamoto, B. M. Shevtsov, S. Smirnov, I. Poddelsky, and M. Connors (2010), The STEL induction magnetometer network for observation of high-frequency geomagnetic pulsations, Earth Planets Space, 62(6), 517-524.">10.5047/eps.2010.05.003</related_content>
 				<related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160.">10.1186/s40623-017-0745-9</related_content>
-				<related_content type="URL" relation="IsDecribedby">http://www.isee.nagoya-u.ac.jp/dimr/PWING/en/</related_content>
+				<related_content type="URL" relation="IsDescribedBy">http://www.isee.nagoya-u.ac.jp/dimr/PWING/en/</related_content>
 			</relation_list>
 			<content_language>en</content_language>
 			<date_list>

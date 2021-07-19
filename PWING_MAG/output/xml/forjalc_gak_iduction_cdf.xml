@@ -8,12 +8,12 @@
 	<body>
 		<site_id>SI/THERS.ISEE</site_id>
 		<content sequence="1">
-			<doi>10.34515/DATA.GND-0061-0002-0101_v01</doi>
-			<url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.GND-0061-0002-0101_v01.html</url>
+			<doi>10.34515/DATA.GND-0013-0002-0101_v01</doi>
+			<url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.GND-0013-0002-0101_v01.html</url>
 			<title_list>
 				<titles lang="en">
-					<title>64Hz induction magnetometer data at the Zhigansk station in Common Data Format</title>
-					<subtitle>64Hz induction magnetometer data at ZGN</subtitle>
+					<title>64Hz induction magnetometer data at the Gakona station in Common Data Format</title>
+					<subtitle>64Hz induction magnetometer data at GAK</subtitle>
 				</titles>
 			</title_list>
 			<subject_list>
@@ -37,6 +37,18 @@
 				</creator>
 				<creator sequence="2" type="person">
 					<names lang="en">
+						<last_name>Tsutomu</last_name>
+						<first_name>Nagatsuma</first_name>
+					</names>
+					<affiliation>
+						<affiliation_name sequence="1" lang="en">National Institute of Information and Communications Technology</affiliation_name>
+					</affiliation>
+					<researcher_id>
+						<id_code type="ORCID">https://orcid.org/0000-0002-9334-0738</id_code>
+					</researcher_id>
+				</creator>
+				<creator sequence="3" type="person">
+					<names lang="en">
 						<last_name>Shinbori</last_name>
 						<first_name>Atsuki</first_name>
 					</names>
@@ -49,9 +61,9 @@
 				</creator>
 			</creator_list>
 			<publication_date>
-				<year>2016</year>
-				<month>09</month>
-				<day>14</day>
+				<year>2017</year>
+				<month>03</month>
+				<day>03</day>
 			</publication_date>
 			<publisher>
 				<publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
@@ -83,19 +95,19 @@
 			</relation_list>
 			<content_language>en</content_language>
 			<date_list>
-				<date type="Issued">2017-07-10 (version: v01)</date>
+				<date type="Issued">2017-07-28 (version: v01)</date>
 			</date_list>
 			<resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
 			<rights_list>
 				<rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">1. Please contact Kazuo Shiokawa (shiokawa at isee.nagoya-u.ac.jp) before using the data for any publications and/or presentations. 2. References: Shiokawa, K., R. Nomura, K. Sakaguchi, Y. Otsuka, Y. Hamaguchi, M. Satoh, Y. Katoh, Y. Yamamoto, B. M. Shevtsov, S. Smirnov, I. Poddelsky, and M. Connors, The STEL induction magnetometer network for observation of high-frequency geomagnetic pulsations, Earth Planets Space, 62(6), 517-524, doi:10.5047/eps.2010.05.003, 2010.</rights>
 			</rights_list>
 			<description_list>
-				<description type="Abstract" lang="en">The induction magnetometer data observed at Zhigansk, Russia. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 64 Hz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Importnat Notes: 1. For frequencies below ~1Hz, use the following equation to obtain amplitude values in units of nT/s: dB/dt (nT/s) = data (V) / quick_sensitivity. The value of quick_sensitivity is given in global attributes. For frequencies above ~1Hz, use the exact sensitivity curve to obtain absolute amplitude of waves. 2. Please note that the positive direction (polarity) of H, D, and Z are different depending on the station. For example, in February 2011, the polarity is GAK: positive=northward, eastward, upward; MGD: positive=northward, eastward, downward; ATH: positive=northward, eastward, downward; MSR: positive=southward, westward, upward; STA: positive=northward, eastward, downward. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+				<description type="Abstract" lang="en">The induction magnetometer data observed at Gakona, Alaska (US). The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 64 Hz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Importnat Notes: 1. For frequencies below ~1Hz, use the following equation to obtain amplitude values in units of nT/s: dB/dt (nT/s) = data (V) / quick_sensitivity. The value of quick_sensitivity is given in global attributes. For frequencies above ~1Hz, use the exact sensitivity curve to obtain absolute amplitude of waves. 2. Please note that the positive direction (polarity) of H, D, and Z are different depending on the station. For example, in February 2011, the polarity is GAK: positive=northward, eastward, upward; MGD: positive=northward, eastward, downward; ATH: positive=northward, eastward, downward; MSR: positive=southward, westward, upward; STA: positive=northward, eastward, downward. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
 			</description_list>
 			<geolocation_list>
 				<geolocation>
-					<geolocation_point>66.78 123.37</geolocation_point>
-          				<geolocation_place>Zhigansk, Russia</geolocation_place>
+					<geolocation_point>62.39 214.78</geolocation_point>
+         				<geolocation_place>Gakona, USA</geolocation_place>
 				</geolocation>
 			</geolocation_list>
 			<fund_list>
@@ -105,7 +117,7 @@
 					<award_number>16H06286</award_number>
 				</fund>
 			</fund_list>
-			
+						
        		
        		
        		
