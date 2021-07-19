@@ -14,8 +14,8 @@
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/CATALOG_HINODE-00000.html</url>
       <title_list>
         <titles lang="en">
-          <title>Hinode Flare Catalogue </title>
-          <subtitle> Solar flares during the Hinode operation period </subtitle>
+          <title>Hinode Flare Catalogue</title>
+          <subtitle>Solar flares during the Hinode operation period</subtitle>
         </titles>
       </title_list>
       <subject_list>
@@ -47,7 +47,7 @@
             <first_name>Kyoko</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">National Defense Academy of Japan</affiliation_name>
+            <affiliation_name sequence="1" lang="en">National Defense Academy of Japan</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0003-0321-7881</id_code>
@@ -59,7 +59,7 @@
             <first_name>Tomonori</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
         </creator>
       </creator_list>
@@ -82,13 +82,13 @@
       </format_list>
       <relation_list>
         <related_content type="DOI" relation="References" title="Watanabe, K., S. Masuda, and T. Segawa, Hinode Flare Catalogue, Solar Physics, 279, 317-322, 2012">10.1007/s11207-012-9983-y </related_content>
-        <related_content type="WEB" relation="HasInfo" title="Hinode Science Center at Nagoya">https://hinode.isee.nagoya-u.ac.jp/index.shtml.en</related_content>
+        <related_content type="URL" relation="IsDescribedBy" title="Hinode Science Center at Nagoya">https://hinode.isee.nagoya-u.ac.jp/index.shtml.en</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Updated">2021-05-07</date>
       </date_list>
-      <resource_type type="Other">Flare Catalogue</resource_type>
+      <resource_type type="Dataset">Event list with additional information on solar flares</resource_type>
       <rights_list>
         <rights uri="https://hinode.isee.nagoya-u.ac.jp/flare_catalogue/index.html">Examples of Acknowledgement </rights>
         <rights uri="http://www.isas.jaxa.jp/en/researchers/data-policy/">ISAS Data Policy</rights>
