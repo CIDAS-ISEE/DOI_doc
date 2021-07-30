@@ -26,14 +26,14 @@
 			<creator_list>
 				<creator sequence="1" type="person">
 					<names lang="en">
-						<last_name>Shiokawa</last_name>
-						<first_name>Kazuo</first_name>
+						<last_name>Connors</last_name>
+						<first_name>Martin</first_name>
 					</names>
 					<affiliation>
-						<affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+						<affiliation_name sequence="1" lang="en">Faculty of Science and Technology, Athabasca University</affiliation_name>
 					</affiliation>
 					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+						<id_code type="ORCID">https://orcid.org/0000-0003-0634-9599</id_code>
 					</researcher_id>
 				</creator>
 				<creator sequence="2" type="person">
@@ -51,14 +51,14 @@
 				</creator>
 				<creator sequence="3" type="person">
 					<names lang="en">
-						<last_name>Connors</last_name>
-						<first_name>Martin</first_name>
+						<last_name>Shiokawa</last_name>
+						<first_name>Kazuo</first_name>
 					</names>
 					<affiliation>
-						<affiliation_name sequence="1" lang="en">Faculty of Science and Technology, Athabasca University</affiliation_name>
+						<affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
 					</affiliation>
 					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0003-0634-9599</id_code>
+						<id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
 					</researcher_id>
 				</creator>
 				<creator sequence="4" type="person">
@@ -134,10 +134,9 @@
 			<isas_data_list>
          		<isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/geomag/isee/induction/lcl/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
          	</isas_data_list>
-       		<isas_citation>Shiokawa, K., R. Nomura, K. Sakaguchi, Y. Otsuka, Y. Hamaguchi, M. Satoh, Y. Katoh, Y. Yamamoto, B. M. Shevtsov, S. Smirnov, I. Poddelsky, and M. Connors (2010), The STEL induction magnetometer network for observation of high-frequency geomagnetic pulsations, Earth Planets Space, 62(6), 517-524, doi:10.5047/eps.2010.05.003.</isas_citation>
-       		<isas_citation>Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160, doi: 10.1186/s40623-017-0745-9.</isas_citation>
+       		<isas_citation>Connors, M., I. Schofield, K. Shiokawa, and A. Shinbori, Geomagnetic field variation data measured by a ground induction magnetometer at Lucky Lake, Canada, archived in Common Data Format, DOI:10.34515/DATA.GND-0028-0002-0101_v01.</isas_citation>
        		<isas_metadata_date_list>
-           		<isas_metadata_date type="Issued">2021-06-10</isas_metadata_date>
+           		<isas_metadata_date type="Issued">2021-07-30</isas_metadata_date>
        		</isas_metadata_date_list>
 		</content>
 	</body>
