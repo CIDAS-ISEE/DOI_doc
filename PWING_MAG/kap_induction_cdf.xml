@@ -24,66 +24,42 @@
         			<subject lang="en">ULF Magnetic Field Waves</subject>
       			</subject_list>
 			<creator_list>
-				<creator sequence="1" type="person">
-					<names lang="en">
-						<last_name>Shiokawa</last_name>
-						<first_name>Kazuo</first_name>
-					</names>
-					<affiliation>
-						<affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
-					</affiliation>
-					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
-					</researcher_id>
-				</creator>
-				<creator sequence="2" type="person">
-					<names lang="en">
-						<last_name>Nosé</last_name>
-						<first_name>Masahito</first_name>
-					</names>
-					<affiliation>
-						<affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
-					</affiliation>
-					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0002-2789-3588</id_code>
-					</researcher_id>
-				</creator>
-				<creator sequence="3" type="person">
-					<names lang="en">
-						<last_name>Nagatsuma</last_name>
-						<first_name>Tsutomu</first_name>
-					</names>
-					<affiliation>
-						<affiliation_name sequence="1" lang="en">National Institute of Information and Communications Technology</affiliation_name>
-					</affiliation>
-					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0002-9334-0738</id_code>
-					</researcher_id>
-				</creator>
-				<creator sequence="4" type="person">
-					<names lang="en">
-						<last_name>Sakaguchi</last_name>
-						<first_name>Kaori</first_name>
-					</names>
-					<affiliation>
-						<affiliation_name sequence="1" lang="en">National Institute of Information and Communications Technology</affiliation_name>
-					</affiliation>
-					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0002-3240-1293</id_code>
-					</researcher_id>
-				</creator>
-				<creator sequence="5" type="person">
-					<names lang="en">
-						<last_name>Shinbori</last_name>
-						<first_name>Atsuki</first_name>
-					</names>
-					<affiliation>
-						<affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
-					</affiliation>
-					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
-					</researcher_id>
-				</creator>
+      				<creator sequence="1" type="person">
+        				<names lang="en">
+          					<last_name>Shinbori</last_name>
+          					<first_name>Atsuki</first_name>
+        				</names>
+        				<affiliation>
+         					<affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+        				</affiliation>
+        				<researcher_id>
+          					<id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+        				</researcher_id>
+      				</creator>
+        			<creator sequence="2" type="person">
+          				<names lang="en">
+            					<last_name>Otsuka</last_name>
+            					<first_name>Yuichi</first_name>
+          				</names>
+        				<affiliation>
+          					<affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+        				</affiliation>
+        				<researcher_id>
+          					<id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+        				</researcher_id>
+      				</creator>
+        			<creator sequence="3" type="person">
+          				<names lang="en">
+            					<last_name>Shiokawa</last_name>
+            					<first_name>Kazuo</first_name>
+          				</names>
+        				<affiliation>
+          					<affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+        				</affiliation>
+        				<researcher_id>
+          					<id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+        				</researcher_id>
+      				</creator>
 			</creator_list>
 			<publication_date>
 				<year>2016</year>
@@ -145,9 +121,9 @@
 						<isas_data_list>
          		<isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/geomag/isee/induction/kap/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
          	</isas_data_list>
-       		<isas_citation>Shiokawa, K., M. Nose, T. Nagatsuma, K. Sakaguchi, and A. Shinbori, Geomagnetic field variation data measured by a ground induction magnetometer at Kapuskasing, Canada, archived in Common Data Format, DOI:10.34515/DATA.GND-0021-0002-0101_v01, 2021.</isas_citation>
+       		<isas_citation>Shiokawa, K., M. Nose, T. Nagatsuma, and K. Sakaguchi, Geomagnetic field variation data measured by a ground induction magnetometer at Kapuskasing, Canada, archived in Common Data Format, DOI:10.34515/DATA.GND-0021-0002-0101_v01, 2021.</isas_citation>
        		<isas_metadata_date_list>
-           		<isas_metadata_date type="Issued">2021-07-26</isas_metadata_date>
+           		<isas_metadata_date type="Issued">2021-08-02</isas_metadata_date>
        		</isas_metadata_date_list>
 		</content>
 	</body>
