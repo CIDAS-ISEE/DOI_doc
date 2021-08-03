@@ -12,53 +12,53 @@
 			<url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.GND-0021-0002-0101_v01.html</url>
 			<title_list>
 				<titles lang="en">
-					<title>64Hz induction magnetometer data at the Kapuskasing station in Common Data Format</title>
-					<subtitle>64Hz induction magnetometer data at KAP</subtitle>
+					<title>Geomagnetic field variation data measured by a ground induction magnetometer at Kapuskasing, Canada, archived in Common Data Format</title>
+					<subtitle>Induction magnetometer data at KAP</subtitle>
 				</titles>
 			</title_list>
-			<subject_list>
-				<subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
-				<subject lang="en">EARTH SCIENCE Atmosphere Sun-earth Interactions Ionosphere</subject>
-				<subject lang="en">Magnetosphere Dynamics Magnetic Fields</subject>
-				<subject lang="en">Magnetic Currents</subject>
-			</subject_list>
+      			<subject_list>
+        			<subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        			<subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        			<subject lang="en">Magnetosphere Dynamics</subject>
+        			<subject lang="en">ULF Magnetic Field Waves</subject>
+      			</subject_list>
 			<creator_list>
-				<creator sequence="1" type="person">
-					<names lang="en">
-						<last_name>Shiokawa</last_name>
-						<first_name>Kazuo </first_name>
-					</names>
-					<affiliation>
-						<affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
-					</affiliation>
-					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
-					</researcher_id>
-				</creator>
-				<creator sequence="2" type="person">
-					<names lang="en">
-						<last_name>Tsutomu</last_name>
-						<first_name>Nagatsuma</first_name>
-					</names>
-					<affiliation>
-						<affiliation_name sequence="1" lang="en">National Institute of Information and Communications Technology</affiliation_name>
-					</affiliation>
-					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0002-9334-0738</id_code>
-					</researcher_id>
-				</creator>
-				<creator sequence="3" type="person">
-					<names lang="en">
-						<last_name>Shinbori</last_name>
-						<first_name>Atsuki</first_name>
-					</names>
-					<affiliation>
-						<affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
-					</affiliation>
-					<researcher_id>
-						<id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
-					</researcher_id>
-				</creator>
+      				<creator sequence="1" type="person">
+        				<names lang="en">
+          					<last_name>Shinbori</last_name>
+          					<first_name>Atsuki</first_name>
+        				</names>
+        				<affiliation>
+         					<affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+        				</affiliation>
+        				<researcher_id>
+          					<id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+        				</researcher_id>
+      				</creator>
+        			<creator sequence="2" type="person">
+          				<names lang="en">
+            					<last_name>Otsuka</last_name>
+            					<first_name>Yuichi</first_name>
+          				</names>
+        				<affiliation>
+          					<affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+        				</affiliation>
+        				<researcher_id>
+          					<id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+        				</researcher_id>
+      				</creator>
+        			<creator sequence="3" type="person">
+          				<names lang="en">
+            					<last_name>Shiokawa</last_name>
+            					<first_name>Kazuo</first_name>
+          				</names>
+        				<affiliation>
+          					<affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+        				</affiliation>
+        				<researcher_id>
+          					<id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+        				</researcher_id>
+      				</creator>
 			</creator_list>
 			<publication_date>
 				<year>2016</year>
@@ -99,7 +99,7 @@
 			</date_list>
 			<resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
 			<rights_list>
-				<rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">1. Please contact Kazuo Shiokawa (shiokawa at isee.nagoya-u.ac.jp) before using the data for any publications and/or presentations. 2. References: Shiokawa, K., R. Nomura, K. Sakaguchi, Y. Otsuka, Y. Hamaguchi, M. Satoh, Y. Katoh, Y. Yamamoto, B. M. Shevtsov, S. Smirnov, I. Poddelsky, and M. Connors, The STEL induction magnetometer network for observation of high-frequency geomagnetic pulsations, Earth Planets Space, 62(6), 517-524, doi:10.5047/eps.2010.05.003, 2010.</rights>
+				<rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING magnetometer data</rights>
 			</rights_list>
 			<description_list>
 				<description type="Abstract" lang="en">The induction magnetometer data observed at Kapuskasing, Canada. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 64 Hz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Importnat Notes: 1. For frequencies below ~1Hz, use the following equation to obtain amplitude values in units of nT/s: dB/dt (nT/s) = data (V) / quick_sensitivity. The value of quick_sensitivity is given in global attributes. For frequencies above ~1Hz, use the exact sensitivity curve to obtain absolute amplitude of waves. 2. Please note that the positive direction (polarity) of H, D, and Z are different depending on the station. For example, in February 2011, the polarity is KAP: positive=northward, eastward, upward; MGD: positive=northward, eastward, downward; ATH: positive=northward, eastward, downward; MSR: positive=southward, westward, upward; STA: positive=northward, eastward, downward. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
@@ -118,7 +118,6 @@
 				</fund>
 			</fund_list>
 						
-       		
        		
        		
 		</content>
