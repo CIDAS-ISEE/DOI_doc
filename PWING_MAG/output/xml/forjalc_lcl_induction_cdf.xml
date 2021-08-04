@@ -9,7 +9,7 @@
 		<site_id>SI/THERS.ISEE</site_id>
 		<content sequence="1">
 			<doi>10.34515/DATA.GND-0028-0002-0101_v01</doi>
-			<url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.GND-0028-0002-0101_v01.html</url>
+			<url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0028-0002-0101_v01.html</url>
 			<title_list>
 				<titles lang="en">
 					<title>Geomagnetic field variation data measured by a ground induction magnetometer at Lucky Lake, Canada, archived in Common Data Format</title>
