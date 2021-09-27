@@ -1,0 +1,146 @@
+<!-- The sample XML file for DOI registration in ISEE (2020.08 ver.)-->
+
+<root>
+  
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+
+    
+
+    <!-- ##########   ERG-????? ERG-MEPI-2-OMNIFLUX-V??_??   ########## -->
+    
+    <content sequence="1">
+      
+      <doi>10.34515/DATA.ERG-03001</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_ERG-03001.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Exploration of energization and Radiation in Geospace (ERG) MEP-i Level-2 omni-directional flux data</title>
+          <subtitle>ERG (Arase) MEP-i Lv.2 omni-directional flux data</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Exploration of energization and Radiation in Geospace</subject>
+        <subject lang="en">Arase</subject>
+        <subject lang="en">Geospace</subject>
+        <subject lang="en">Inner magnetosphere</subject>
+        <subject lang="en">Radiation belt</subject>
+        <subject lang="en">Earth</subject>
+        <subject lang="en">3-D velocity distribution function</subject>
+        <subject lang="en">Energetic ion flux with mass discrimination</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Syoichiro</last_name>
+            <first_name>Yokota</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Osaka University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-8851-9146</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Kasahara</last_name>
+            <first_name>Satoshi</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">The University of Tokyo</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3479-772X</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Hori</last_name>
+            <first_name>Tomoaki</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-8451-6941</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2019</year>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            <first_name>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency</first_name>
+          </names>
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+          </names>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use, containing fully-calibrated data in physical units</variation>
+        <version>v02_00</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References" title="Yokota, S., et al. (2017), Medium-energy particle experiments-ion mass analyzer (MEP-i) onboard ERG (Arase)">10.1186/s40623-017-0754-8</related_content>
+        <related_content type="URL" relation="IsDescribedBy" title="MEP-i Wiki @ERG Science Center">https://ergsc.isee.nagoya-u.ac.jp/mw/index.php/ErgSat/Mepi</related_content>
+        <related_content type="DOI" relation="References" title="Miyoshi et al. (2018a), Geospace exploration project ERG">10.1186/s40623-018-0862-0</related_content>
+        <related_content type="DOI" relation="References" title="Miyoshi et al. (2018b), The ERG Science Center">10.1186/s40623-018-0867-8</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Updated">2019-10-04 (version: v02_00)</date>
+        <date type="Updated">2019-02-01 (version: v01_03)</date>
+        <date type="Updated">2018-08-09 (version: v01_02)</date>
+        <date type="Updated">2018-08-01 (version: v01_01)</date>
+        <date type="Issued"> 2018-04-16 (version: v01_00)</date>
+      </date_list>
+      <resource_type type="Dataset">Omni-directional fluxes of energetic ions with mass discrimination</resource_type>
+      <rights_list>
+        <rights uri="https://ergsc.isee.nagoya-u.ac.jp/data_info/rules_of_the_road.shtml.en">Rules of the road common to all scientific products from the ERG (Arase) Project</rights>
+        <rights uri="https://ergsc.isee.nagoya-u.ac.jp/mw/index.php/ErgSat/Mepi#Specific_to_MEP-i_Data">Rules of the road for the MEP-i data</rights>
+        <rights uri="http://www.isas.jaxa.jp/en/researchers/data-policy/">ISAS Data Policy</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">The dataset includes omni-directional fluxes of energetic ions with mass discrimination measured by the MEP-i instrument onboard the ERG (Arase) satellite, which are archived in the Common Data Format (CDF). The data files can be accessed with various data analysis software such as SPEDAS as well as with web browsers.</description>
+      </description_list>
+      
+      <isas_data_list>
+        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/satellite/erg/mepi/l2/omniflux/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
+      </isas_data_list>
+      <isas_citation>Yokota, S., S. Kasahara, T. Hori, K. Keika, Y. Miyoshi, and I. Shinohara, The MEP-i instrument Level-2 omni-directional flux data of Exploration of energization and Radiation in Geospace (ERG) Arase satellite, DOI:10.34515/DATA.ERG-03001, 2018.</isas_citation>
+      <isas_metadata_date_list>
+        <isas_metadata_date type="Issued">2020-10-29</isas_metadata_date>
+      </isas_metadata_date_list>
+
+    </content>
+
+    <!-- ##########   ERG-????? ERG-MEPi-2-3DFLUX-V??_??   ########## -->
+
+
+
+    
+    
+  </body>
+
+  
+</root>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- The sample XML file for DOI registration in ISEE (2021.03 ver.)--><root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+
+    <content sequence="1">
+
+      <doi>10.34515/DATA.ERG-08001</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_ERG-08001.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Exploration of energization and Radiation in Geospace (ERG) Plasma Wave Experiment (PWE) Onboard Frequency Analyzer (OFA) Level-2 spectral matrix data</title>
+          <subtitle>ERG (Arase) PWE/OFA L2 spectral matrix data</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Exploration of energization and Radiation in Geospace</subject>
+        <subject lang="en">Arase</subject>
+        <subject lang="en">Geospace</subject>
+        <subject lang="en">Inner magnetosphere</subject>
+        <subject lang="en">Radiation belt</subject>
+        <subject lang="en">Earth</subject>
+        <subject lang="en">Plasma wave</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Kasahara</last_name>
+            <first_name>Yoshiya</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Graduate School of Natural Science and Technology, Kanazawa University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-9304-8235</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Kojima</last_name>
+            <first_name>Hirotsugu</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Research Institute for Sustainable Humanosphere, Kyoto University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-4609-3500</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Matsuda</last_name>
+            <first_name>Shoya</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0003-4778-8897</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="4" type="person">
+          <names lang="en">
+            <last_name>Ozaki</last_name>
+            <first_name>Mitsunori</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Graduate School of Natural Science and Technology, Kanazawa University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-8865-6028</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="5" type="person">
+          <names lang="en">
+            <last_name>Yagitani</last_name>
+            <first_name>Satoshi</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Graduate School of Natural Science and Technology, Kanazawa University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-4588-5610</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="6" type="person">
+          <names lang="en">
+            <last_name>Shoji</last_name>
+            <first_name>Masafumi</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-6573-525X</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="7" type="person">
+          <names lang="en">
+            <last_name>Nakamura</last_name>
+            <first_name>Satoko</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0003-4367-696X</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="8" type="person">
+          <names lang="en">
+            <last_name>Kitahara</last_name>
+            <first_name>Masahiro</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0003-1077-4870</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="9" type="person">
+          <names lang="en">
+            <last_name>Miyoshi</last_name>
+            <first_name>Yoshizumi</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-7998-1240</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="10" type="person">
+          <names lang="en">
+            <last_name>Shinohara</last_name>
+            <first_name>Iku</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0003-2700-0353</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2021</year>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            <first_name>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency</first_name>
+          </names>
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+          </names>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use, containing calibrated data in physical units</variation>
+        <version>v01_01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References">10.1186/s40623-018-0862-0</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-018-0867-8</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-018-0842-4</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-018-0838-0</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0760-x</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-018-0837-1</related_content>
+        <related_content type="URL" relation="IsDescribedBy">https://ergsc.isee.nagoya-u.ac.jp/mw/index.php/ErgSat/Pwe</related_content>
+        <related_content type="URL" relation="IsDescribedBy">https://ergsc.isee.nagoya-u.ac.jp/mw/index.php/ErgSat/Pwe/Ofa</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2021</date>
+      </date_list>
+      <resource_type type="Dataset">Electric and magnetic field spectral matrices</resource_type>
+      <rights_list>
+        <rights uri="https://ergsc.isee.nagoya-u.ac.jp/data_info/rules_of_the_road.shtml.en">Rules of the road common to all scientific products from the ERG (Arase) Project</rights>
+        <rights uri="https://ergsc.isee.nagoya-u.ac.jp/mw/index.php/ErgSat/Pwe">Rules of the road for the PWE data</rights>
+        <rights uri="https://www.isas.jaxa.jp/en/researchers/data-policy/">ISAS Data Policy</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">The dataset includes electric and magnetic field spectral matrices measured by the PWE/OFA instrument aboard the ERG (Arase) satellite, which are archived in the Common Data Format (CDF). The data files can be accessed with various data analysis software such as SPEDAS as well as with web browsers.</description>
+      </description_list>
+
+      
+      
+      
+
+    </content>
+
+
+  </body>
+
+</root>

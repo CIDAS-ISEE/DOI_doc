@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- The sample XML file for DOI registration in ISEE (2020.08 ver.)--><root>
+
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+
+
+
+    <!-- ##########   ERG-????? ERG-MGF-L2-spin-averaged-V??_??   ########## -->
+
+    <content sequence="1">
+
+      <doi>10.34515/DATA.ERG-06001</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_ERG-06001.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Exploration of energization and Radiation in Geospace (ERG) Magnetic Field Experiment (MGF) Level-2 spin-averaged magnetic field data</title>
+          <subtitle>ERG (Arase) MGF Lv.2 spin-averaged magnetic field data</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Exploration of energization and Radiation in Geospace</subject>
+        <subject lang="en">Arase</subject>
+        <subject lang="en">Geospace</subject>
+        <subject lang="en">Inner magnetosphere</subject>
+        <subject lang="en">Earth</subject>
+        <subject lang="en">Waves</subject>
+        <subject lang="en">Vector magnetic field</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Matsuoka</last_name>
+            <first_name>Ayako</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Data Analysis Center for Geomagnetism and Space Magnetism, Graduate School of Science, Kyoto University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5777-9711</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Imajo</last_name>
+            <first_name>Shun</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-9862-844X</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            <first_name>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency</first_name>
+          </names>
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+          </names>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use, containing fully-calibrated data in physical units</variation>
+        <version> v03.04 (before September 27, 2019) and v04.04 (after September 28, 2019)</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References">10.1186/s40623-018-0800-1</related_content>
+        <related_content type="URL" relation="IsDescribedBy">https://ergsc.isee.nagoya-u.ac.jp/mw/index.php/ErgSat/Mgf</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-018-0862-0</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-018-0867-8</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Updated"> 2020-07-28 (version: v03.04 and v04.04)</date>
+        <date type="Updated"> 2020-06-10 (version: v03.03 and v04.03)</date>
+        <date type="Updated"> 2019-12-05 (version: v01.02)</date>
+        <date type="Issued"> 2018-11-01 (version: v01.01)</date>
+      </date_list>
+      <resource_type type="Dataset">Spin-averaged magnetic field data</resource_type>
+      <rights_list>
+        <rights uri="https://ergsc.isee.nagoya-u.ac.jp/data_info/rules_of_the_road.shtml.en">Rules of the road common to all scientific products from the ERG (Arase) Project</rights>
+        <rights uri="https://ergsc.isee.nagoya-u.ac.jp/mw/index.php/ErgSat/Mgf#Specific_to_MGF_Data">Rules of the road for the MGF data</rights>
+        <rights uri="https://www.isas.jaxa.jp/en/researchers/data-policy/">ISAS Data Policy</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">The dataset includes spin-averaged magnetic field data measured by the MGF instrument onboard the ERG (Arase) satellite, which are archived in the Common Data Format (CDF). The data files can be accessed with various data analysis software such as SPEDAS as well as with web browsers.</description>
+      </description_list>
+
+      
+      
+      
+
+    </content>
+
+    <!-- ##########   ERG-????? ERG-MGF-2-spin-averaged-V??_??   ########## -->
+
+
+
+
+
+  </body>
+
+
+</root>
