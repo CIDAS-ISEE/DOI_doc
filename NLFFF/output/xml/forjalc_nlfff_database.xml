@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- The sample XML file for DOI registration in ISEE (2020.08 ver.)--><root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <!-- ########## NLFFF database v1.0 ########## -->
+    <content sequence="1">
+      <doi>10.34515/DATA.HSC-00000</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_HSC-00000.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>
+	    ISEE Database for Nonlinear Force-Free Field of Solar Active Regions
+	  </title>
+          <subtitle>
+	    Three-dimensional magnetic field of solar active regions
+	  </subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+	<subject lang="en">Nonlinear force-free field (NLFFF)</subject>
+	<subject lang="en">Magnetic field</subject>
+	<subject lang="en">The sun</subject>
+	<subject lang="en">Solar active region</subject>
+	<subject lang="en">Solar Dynamics Observatory (SDO)</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Kusano</last_name>
+            <first_name>Kanya</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      Institute for Space-Earth Environmental Research, Nagoya University
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6814-6810</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Iijima</last_name>
+            <first_name>Haruhisa</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      Institute for Space-Earth Environmental Research, Nagoya University
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-1007-181X</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Kaneko</last_name>
+            <first_name>Takafumi</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      Institute for Space-Earth Environmental Research, Nagoya University
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5121-5122</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="4" type="person">
+          <names lang="en">
+            <last_name>Masuda</last_name>
+            <first_name>Satoshi Masuda</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      Institute for Space-Earth Environmental Research, Nagoya University
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5037-9758</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="5" type="person">
+          <names lang="en">
+            <last_name>Iju</last_name>
+            <first_name>Tomoya</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      National Astronomical Observatory of Japan
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-9084-2946</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="6" type="person">
+          <names lang="en">
+            <last_name>Inoue</last_name>
+            <first_name>Satoshi</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      Center for Solar-Terrestrial Research, New Jersey Institute of Technology
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5121-5122</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2021</year>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">
+	  Hinode Science Center,
+	  Institute for Space-Earth Environmental Research, Nagoya University
+	</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>Hinode Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+          </names>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use, containing fully-calibrated data in physical units</variation>
+        <version>v1.0 (latest as of December, 2021)</version>
+      </edition>
+      <format_list>
+        <format>NetCDF</format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References">10.1126/science.aaz2511</related_content>
+        <related_content type="DOI" relation="References">10.1088/0004-637X/780/1/101</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2021-12-01 (version: v1.0)</date>
+      </date_list>
+      <resource_type type="Dataset">
+	Three-dimensional magnetic field in the network common data form (NetCDF)
+      </resource_type>
+      <rights_list>
+        <rights uri="https://hinode.isee.nagoya-u.ac.jp/nlfff_database/index.html#terms_of_use">
+	  Terms of Use
+	</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">
+	  The database contains the three-dimensional (3D) magnetic fields of solar active regions analyzed by Kusano et al. (2020, DOI: 10.1126/science.aaz2511). The 3D magnetic field are extrapolated by the magnetohydrodynamic relaxation method (Inoue et al. 2014, DOI: 10.1088/0004-637X/780/1/101) from the vector magnetic field data observed by the Solar Dynamics Observatory (SDO/HMI). In this database, Space weather HMI Active Region Patch data remapped to a Lambert Cylindrical Equal-Area projection (SHARP CEA: http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm) are used. The database includes at least one data for the 198 ARs of biggest sunspots in solar cycle 24 (2010-2017). For the detailed list and parameters of the sampled data, refer to Kusano et al. (2020, DOI: 10.1126/science.aaz2511).
+	</description>
+      </description_list>
+      
+      
+      
+      <!-- ########## NLFFF database v1.0 ########## -->
+    </content>
+  </body>
+</root>
