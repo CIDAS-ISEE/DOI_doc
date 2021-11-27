@@ -10,8 +10,8 @@
     <site_id>SI/THERS.ISEE</site_id>
     <!-- ########## NLFFF database v1.0 ########## -->
     <content sequence="1">
-      <doi>10.34515/DATA.HINODE-00000</doi>
-      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_HINODE-00000.html</url>
+      <doi>10.34515/DATA.HSC-00000</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_HSC-00000.html</url>
       <title_list>
         <titles lang="en">
           <title>
@@ -168,7 +168,7 @@
       <isas_citation>
 	Kusano, K., H. Iijima, T. Kaneko, S. Masuda, T. IJu, and S. Inoue,
 	ISEE Database for Nonlinear Force-Free Field of Solar Active Regions
-	DOI:10.34515/DATA.HINODE-00000,
+	DOI:10.34515/DATA.HISC-00000,
 	2021.
       </isas_citation>
       <isas_metadata_date_list>
