@@ -156,7 +156,7 @@
       </rights_list>
       <description_list>
         <description type="Abstract" lang="en">
-	  The database contains the three-dimensional (3D) magnetic fields of solar active regions analyzed by Kusano et al. (2020, DOI: 10.1126/science.aaz2511). The 3D magnetic field are extrapolated by the magnetohydrodynamic relaxation method (Inoue et al. 2014, DOI: 10.1088/0004-637X/780/1/101) from the vector magnetic field data observed by the Solar Dynamics Observatory (SDO/HMI). In this database, Space weather HMI Active Region Patch data remapped to a Lambert Cylindrical Equal-Area projection (SHARP CEA: http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm) are used. The database includes at least one data for the 203 ARs of biggest sunspots in solar cycle 24 (2010-2017). For the detailed list and parameters of the sampled data, refer to Kusano et al. (2020, DOI: 10.1126/science.aaz2511).
+	  The database contains the three-dimensional (3D) magnetic fields of solar active regions analyzed by Kusano et al. (2020, DOI: 10.1126/science.aaz2511). The 3D magnetic field are extrapolated by the magnetohydrodynamic relaxation method (Inoue et al. 2014, DOI: 10.1088/0004-637X/780/1/101) from the vector magnetic field data observed by the Solar Dynamics Observatory (SDO/HMI). In this database, Space weather HMI Active Region Patch data remapped to a Lambert Cylindrical Equal-Area projection (SHARP CEA: http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm) are used. For the detailed list and parameters of the sampled data, refer to Kusano et al. (2020, DOI: 10.1126/science.aaz2511).
 	</description>
       </description_list>
       
