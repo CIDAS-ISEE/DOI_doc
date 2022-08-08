@@ -127,7 +127,7 @@
       </description_list>
       
       <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/satellite/erg/lepe/l3/pa/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
+        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/satellite/erg/lepe/l3/pa_fine/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
       <isas_citation>
 	  Wang, S.-Y, Y. Kazama, A. Matsuoka, M. Teramoto, C.-W. Jun, T. Hori, Y. Miyoshi, and I. Shinohara, The LEPe instrument Level-3 pitch angle distribution (PAD) data of electron fluxes based on fine channels of Exploration of energization and Radiation in Geospace (ERG) Arase satellite, 10.34515/DATA.ERG-04005, 2021.</isas_citation>
