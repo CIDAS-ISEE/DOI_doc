@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- The sample XML file for DOI registration in ISEE (2020.08 ver.)--><root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <content sequence="1">
+      <doi>10.34515/DATA.HSC-00001</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_HSC-00001.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>
+	    Database for Hinode SOT Polar Magnetic Field
+	  </title>
+        </titles>
+      </title_list>
+      <subject_list>
+	<subject lang="en">Magnetic field</subject>
+	<subject lang="en">The sun</subject>
+	<subject lang="en">Coronal hole</subject>
+	<subject lang="en">Hinode</subject>
+	<subject lang="en">Solar Optical Telescope (SOT)</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shiota</last_name>
+            <first_name>Daikou</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      Radio Research Institute, National Institute of Information and Communications Technology
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-9032-8792</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Shimojo</last_name>
+            <first_name>Masumi</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      National Astronomical Observatory of Japan, National Institutes of Natural Sciences
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-2350-3749</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Kubo</last_name>
+            <first_name>Masahito</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      National Astronomical Observatory of Japan, National Institutes of Natural Sciences
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5616-2808</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="4" type="person">
+          <names lang="en">
+            <last_name>Katsukawa</last_name>
+            <first_name>Yukio</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      National Astronomical Observatory of Japan, National Institutes of Natural Sciences
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-5054-8782</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="5" type="person">
+          <names lang="en">
+            <last_name>Iijima</last_name>
+            <first_name>Haruhisa</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      Institute for Space-Earth Environmental Research, Nagoya University
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-1007-181X</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="6" type="person">
+          <names lang="en">
+            <last_name>Shinsuke</last_name>
+            <first_name>Imada</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-7891-3916</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="7" type="person">
+          <names lang="en">
+            <last_name>Masuda</last_name>
+            <first_name>Satoshi</first_name>
+          </names>
+          <affiliation>
+	    <affiliation_name sequence="1" lang="en">
+	      Institute for Space-Earth Environmental Research, Nagoya University
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5037-9758</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2022</year>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">
+	  Hinode Science Center, Institute for Space-Earth Environmental Research, Nagoya University
+	</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>Hinode Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+          </names>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use, containing fully-calibrated data in physical units</variation>
+        <version>v1.0 (latest as of September, 2022)</version>
+      </edition>
+      <format_list>
+        <format>FITS</format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References">10.1088/0004-637X/753/2/157</related_content>
+        <related_content type="DOI" relation="References">10.1088/0004-637X/719/1/131</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2022-09-01 (version: v1.0)</date>
+      </date_list>
+      <resource_type type="Dataset">
+	Vector magnetic field on solar pohotosphere (FITS)
+      </resource_type>
+      <rights_list>
+        <rights uri="https://hinode.isee.nagoya-u.ac.jp/sot_polar_field/index.html#terms_of_use">
+	  Terms of Use
+	</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">
+	  This database is a collection of vector magnetic field maps of the solar polar regions based on the Stokes spectral profiles of Fe I 630.15 nm and 630.25 nm observed by the Solar Optical Telescope onboard the Hinode satellite. The Stokes inversion is processed by the Milne-Eddington inversion code MILOS (Orozco Suarez and del Toro Iniesta, 2007), and the 180 degree ambiguity is resolved by the method of Ito et al. (2010). For more details and analysis, please refer to Shiota et al. (2012, 2022).
+	</description>
+      </description_list>
+      
+      
+      
+    </content>
+  </body>
+</root>
