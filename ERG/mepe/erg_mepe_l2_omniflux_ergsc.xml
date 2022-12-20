@@ -51,8 +51,8 @@
         </creator>
         <creator sequence="2" type="person">
           <names lang="en">
-            <last_name>Syoichiro</last_name>
-            <first_name>Yokota</first_name>
+            <last_name>Yokota</last_name>
+            <first_name>Syoichiro</first_name>
           </names>
           <affiliation>
             <affiliation_name sequence="1" lang="en">Osaka University</affiliation_name>
