@@ -10,13 +10,13 @@
     <!-- 登録・更新 -->
   </head>
   <body>
-    <site_id>SI/JST.JaLC</site_id>
+    <site_id>SI/THERS.ISEE</site_id>
     <content sequence="1">
       <doi>10.34515/DATA.GND-0063-0002-0101_v01</doi>
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0063-0002-0101_v01</url>
       <title_list>
         <titles lang="en">
-          <title>Geomagnetic field variation data measured by a ground induction magnetometer at Kunigami, Japan, archived in Common Data Format</title>
+          <title>Geomagnetic field variation data measured by a ground induction magnetometer at Kunigami, Japan</title>
           <subtitle>Induction magnetometer data at KNG</subtitle>
         </titles>
       </title_list>
@@ -31,8 +31,6 @@
           <names lang="en">
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
             <affiliation_name lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
@@ -45,8 +43,6 @@
           <names lang="en">
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
             <affiliation_name lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
@@ -59,8 +55,6 @@
           <names lang="en">
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
             <affiliation_name lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
@@ -77,15 +71,13 @@
       </publication_date>
       <publisher>
         <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names lang="en">
             <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
             <affiliation_name/>
@@ -98,15 +90,7 @@
           <names lang="en">
             <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -116,21 +100,16 @@
       <format_list>
         <format>CDF</format>
       </format_list>
-      <relation_list>
-        <related_content type="DOI" scheme="Shiokawa, K., R. Nomura, K. Sakaguchi, Y. Otsuka, Y. Hamaguchi, M. Satoh, Y. Katoh, Y. Yamamoto, B. M. Shevtsov, S. Smirnov, I. Poddelsky, and M. Connors (2010), The STEL induction magnetometer network for observation of high-frequency geomagnetic pulsations, Earth Planets Space, 62(6), 517-524." scheme_uri="10.5047/eps.2010.05.003">References</related_content>
-        <related_content type="DOI" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160." scheme_uri="10.1186/s40623-017-0745-9">References</related_content>
-      </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
+    <relation_list>
+      <related_content type="DOI" relation="References" title="Shiokawa, K., R. Nomura, K. Sakaguchi, Y. Otsuka, Y. Hamaguchi, M. Satoh, Y. Katoh, Y. Yamamoto, B. M. Shevtsov, S. Smirnov, I. Poddelsky, and M. Connors (2010), The STEL induction magnetometer network for observation of high-frequency geomagnetic pulsations, Earth Planets Space, 62(6), 517-524.">10.5047/eps.2010.05.003</related_content>
+      <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160.">10.1186/s40623-017-0745-9</related_content>
+      <related_content type="URL" relation="IsDescribedBy" title ="Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)">http://www.isee.nagoya-u.ac.jp/dimr/PWING/en/</related_content>
+    </relation_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Issued">2022-01-19 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING magnetometer data</rights>
       </rights_list>
@@ -154,11 +133,11 @@
       </fund_list>
       <multiple_resolution_priority/>
       <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/geomag/isee/induction/kng/"/>
+        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/geomag/isee/induction/kng/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
-      <isas_citation>Nosé, M., Shiokawa, K., and Y. Otsuka, Geomagnetic field variation data measured by a ground induction magnetometer at Kunigami, Japan, archived in Common Data Format, DOI:10.34515/DATA.GND-0063-0002-0101_v01, 2022.</isas_citation>
+      <isas_citation>Nosé, M., Shiokawa, K., and Y. Otsuka, Geomagnetic field variation data measured by a ground induction magnetometer at Kunigami, Japan, DOI:10.34515/DATA.GND-0063-0002-0101_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-03-31</isas_metadata_date>
+        <isas_metadata_date type="Issued">2022-12-26</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
   </body>
