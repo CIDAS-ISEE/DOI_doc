@@ -76,19 +76,11 @@
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names lang="en">
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" type="institute" contributor_type="Distributor">
           <names lang="en">
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
           </names>
         </contributor>
@@ -114,13 +106,11 @@
         <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING magnetometer data</rights>
       </rights_list>
       <description_list>
-        <description type="Abstract" lang="en">The induction magnetometer data observed at Kunigami, Japan. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 64 Hz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Importnat Notes: 1. For frequencies below ~1Hz, use the following equation to obtain amplitude values in units of nT/s: dB/dt (nT/s) = data (V) / quick_sensitivity. The value of quick_sensitivity is given in global attributes. For frequencies above ~1Hz, use the exact sensitivity curve to obtain absolute amplitude of waves. 2. Please note that the positive direction (polarity) of H, D, and Z are different depending on the station. For example, in February 2011, the polarity is GAK: positive=northward, eastward, upward; MGD: positive=northward, eastward, downward; ATH: positive=northward, eastward, downward; MSR: positive=southward, westward, upward; STA: positive=northward, eastward, downward. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+        <description lang="en" type="Abstract">The induction magnetometer data observed at Kunigami, Japan. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 64 Hz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Importnat Notes: 1. For frequencies below ~1Hz, use the following equation to obtain amplitude values in units of nT/s: dB/dt (nT/s) = data (V) / quick_sensitivity. The value of quick_sensitivity is given in global attributes. For frequencies above ~1Hz, use the exact sensitivity curve to obtain absolute amplitude of waves. 2. Please note that the positive direction (polarity) of H, D, and Z are different depending on the station. For example, in February 2011, the polarity is GAK: positive=northward, eastward, upward; MGD: positive=northward, eastward, downward; ATH: positive=northward, eastward, downward; MSR: positive=southward, westward, upward; STA: positive=northward, eastward, downward. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>26.7567 128.208</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Kunigami, Japan</geolocation_place>
         </geolocation>
       </geolocation_list>
