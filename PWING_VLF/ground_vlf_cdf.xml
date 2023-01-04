@@ -1,6 +1,6 @@
 <root>
   <head>
-    <error_process>0</error_process>
+    <error_process>1</error_process>
     <!-- 継続 -->
     <result_method>0</result_method>
     <!-- オンライン -->
@@ -10,13 +10,13 @@
     <!-- 登録・更新 -->
   </head>
   <body>
-    <site_id>SI/JST.JaLC</site_id>
+    <site_id>SI/THERS.ISEE</site_id>
     <content sequence="1">
       <doi>10.34515/DATA.GND-0004-0002-0201_v01</doi>
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0004-0002-0201_v01.html</url>
       <title_list>
         <titles lang="en">
-          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Athabasca, Canada, archived in Common Data Format</title>
+          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Athabasca, Canada</title>
           <subtitle>VLF/ELF crossed loop antenna data at ATH</subtitle>
         </titles>
       </title_list>
@@ -31,11 +31,9 @@
           <names lang="en">
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -45,11 +43,9 @@
           <names lang="en">
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -59,11 +55,9 @@
           <names lang="en">
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -77,36 +71,18 @@
       </publication_date>
       <publisher>
         <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names lang="en">
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" type="institute" contributor_type="Distributor">
           <names lang="en">
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -117,31 +93,23 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" scheme="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014." scheme_uri="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020161">References</related_content>
-        <related_content type="DOI" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160." scheme_uri="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-017-0745-9">References</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Issued">2017-06-26 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
       <description_list>
         <description lang="en" type="Abstract">The VLF/ELF crossed loop antenna data observed at Athabasca, Canada. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 100 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: riometer, ch.4: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information. From February 27 to September 22, 2012, there are no data due to noisy operation near the AUGSO building. At 05:30 UT on November 12, 2015, the sampling rate was reduced from 100 kHz to 40 kHz. At 23:50 UT on October 26, 2016, the channel is reduced from 4ch to 3ch (riometer channel is removed).</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>54.60 -113.64</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Athabasca, Canada</geolocation_place>
         </geolocation>
       </geolocation_list>
@@ -152,13 +120,12 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <multiple_resolution_priority/>
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/ath/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
-      <isas_citation>Shiokawa, K., M. Ozaki, Y. Otsuka, and M. Connors, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Athabasca, Canada, archived in Common Data Format, DOI:10.34515/DATA.GND-0004-0002-0201_v01, 2022.</isas_citation>
+      <isas_citation>Shiokawa, K., M. Ozaki, Y. Otsuka, and M. Connors, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Athabasca, Canada, DOI:10.34515/DATA.GND-0004-0002-0201_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-08-05</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="2">
@@ -166,7 +133,7 @@
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0013-0002-0201_v01.html</url>
       <title_list>
         <titles>
-          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Gakona, Alaska, USA, archived in Common Data Format</title>
+          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Gakona, Alaska, USA</title>
           <subtitle>VLF/ELF crossed loop antenna data at GAK</subtitle>
         </titles>
       </title_list>
@@ -181,11 +148,9 @@
           <names lang="en">
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -195,11 +160,9 @@
           <names lang="en">
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -209,11 +172,9 @@
           <names>
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -226,37 +187,19 @@
         <day>20</day>
       </publication_date>
       <publisher>
-        <publisher_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names>
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" contributor_type="Distributor" type="institute">
           <names>
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -267,31 +210,23 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" scheme="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014." scheme_uri="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020161">References</related_content>
-        <related_content type="DOI" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160." scheme_uri="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-017-0745-9">References</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
       <content_language/>
       <date_list>
         <date type="Issued">2018-06-20 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
       <description_list>
         <description type="Abstract">The VLF/ELF crossed loop antenna data observed at Gakona, Alaska, USA. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>62.39 -145.22</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Gakona, Alaska, USA</geolocation_place>
         </geolocation>
       </geolocation_list>
@@ -302,13 +237,12 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <multiple_resolution_priority/>
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/gak/"/>
       </isas_data_list>
-      <isas_citation>Shiokawa, K., S.-I. Oyama, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Gakona, Alaska, USA, archived in Common Data Format, DOI:10.34515/DATA.GND-0013-0002-0201_v01, 2022.</isas_citation>
+      <isas_citation>Shiokawa, K., S.-I. Oyama, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Gakona, Alaska, USA,  DOI:10.34515/DATA.GND-0013-0002-0201_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-11-29</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="3">
@@ -316,7 +250,7 @@
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0015-0002-0201_v01.html</url>
       <title_list>
         <titles>
-          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Husafell, Iceland, archived in Common Data Format</title>
+          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Husafell, Iceland</title>
           <subtitle>VLF/ELF crossed loop antenna data at HUS</subtitle>
         </titles>
       </title_list>
@@ -331,11 +265,9 @@
           <names lang="en">
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name sequence="Institute for Space and Earth Environmental Research, Nagoya University"/>
+            <affiliation_name sequence="1" lang="en">"Institute for Space and Earth Environmental Research, Nagoya University"</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -345,11 +277,9 @@
           <names>
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -359,11 +289,9 @@
           <names>
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -377,36 +305,18 @@
       </publication_date>
       <publisher>
         <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names>
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" contributor_type="Distributor" type="institute">
           <names>
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -417,31 +327,23 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content scheme="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014." type="DOI" scheme_uri="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020161">References</related_content>
-        <related_content type="DOI" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160." scheme_uri="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-017-0745-9">References</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Issued">2019-05-10 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
       <description_list>
         <description type="Abstract">The VLF/ELF crossed loop antenna data observed at Husafell, Iceland. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>64.67 -21.03</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Husafell, Iceland</geolocation_place>
         </geolocation>
       </geolocation_list>
@@ -452,7 +354,6 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <multiple_resolution_priority/>
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/hus/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
@@ -466,7 +367,7 @@
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0018-0002-0201_v01.html</url>
       <title_list>
         <titles>
-          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Istok, Russia, archived in Common Data Format</title>
+          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Istok, Russia</title>
           <subtitle>VLF/ELF crossed loop antenna data at IST</subtitle>
         </titles>
       </title_list>
@@ -481,11 +382,9 @@
           <names>
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -495,11 +394,9 @@
           <names>
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -509,11 +406,9 @@
           <names>
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -526,37 +421,19 @@
         <day>21</day>
       </publication_date>
       <publisher>
-        <publisher_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names>
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" type="institute" contributor_type="Distributor">
           <names>
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -567,31 +444,23 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" scheme="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014." scheme_uri="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020161">References</related_content>
-        <related_content type="DOI" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160." scheme_uri="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-017-0745-9">References</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Issued">2018-06-21 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
       <description_list>
         <description type="Abstract">The VLF/ELF crossed loop antenna data observed at Istok, Russia. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>70.03 88.01</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Istok, Russia</geolocation_place>
         </geolocation>
       </geolocation_list>
@@ -606,9 +475,9 @@
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/ist/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
-      <isas_citation>Shiokawa, K., M. Ozaki, Y. Otsuka, N. Nishitani, A. Oinats, and V. Kurkin, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Istok, Russia, archived in Common Data Format, DOI:10.34515/DATA.GND-0018-0002-0201_v01, 2022.</isas_citation>
+      <isas_citation>Shiokawa, K., M. Ozaki, Y. Otsuka, N. Nishitani, A. Oinats, and V. Kurkin, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Istok, Russia, DOI:10.34515/DATA.GND-0018-0002-0201_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-12-01</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="5">
@@ -616,7 +485,7 @@
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0021-0002-0201_v01.html</url>
       <title_list>
         <titles>
-          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Kapuskasing, Canada, archived in Common Data Format</title>
+          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Kapuskasing, Canada</title>
           <subtitle>VLF/ELF crossed loop antenna data at KAP</subtitle>
         </titles>
       </title_list>
@@ -631,11 +500,9 @@
           <names>
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -645,11 +512,9 @@
           <names>
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -659,11 +524,9 @@
           <names>
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -676,37 +539,19 @@
         <day>19</day>
       </publication_date>
       <publisher>
-        <publisher_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names>
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" type="institute" contributor_type="Distributor">
           <names>
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -717,31 +562,23 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" scheme="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014." scheme_uri="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020161">References</related_content>
-        <related_content type="DOI" scheme_uri="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-017-0745-9" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160.">References</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Issued">2018-06-21 (version: 01)</date>
       </date_list>
       <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
       <description_list>
         <description type="Abstract">The VLF/ELF crossed loop antenna data observed at Kapuskasing, Canada. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>49.39 -82.19</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Kapuskasing, Canada</geolocation_place>
         </geolocation>
       </geolocation_list>
@@ -752,13 +589,12 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <multiple_resolution_priority/>
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/kap/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
-      <isas_citation>Shiokawa, K., M. Ozaki, and Y. Otsuka, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Kapuskasing, Canada, archived in Common Data Format, DOI:10.34515/DATA.GND-0021-0002-0201_v01, 2022.</isas_citation>
+      <isas_citation>Shiokawa, K., M. Ozaki, and Y. Otsuka, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Kapuskasing, Canada, DOI:10.34515/DATA.GND-0021-0002-0201_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-12-01</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="6">
@@ -766,7 +602,7 @@
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0064-0002-0201_v01.html</url>
       <title_list>
         <titles>
-          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Maimaga, Russia, archived in Common Data Format</title>
+          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Maimaga, Russia</title>
           <subtitle>VLF/ELF crossed loop antenna data at MAM</subtitle>
         </titles>
       </title_list>
@@ -781,11 +617,9 @@
           <names>
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -795,11 +629,9 @@
           <names>
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -809,11 +641,9 @@
           <names>
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -826,37 +656,19 @@
         <day>19</day>
       </publication_date>
       <publisher>
-        <publisher_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names>
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" type="institute" contributor_type="Distributor">
           <names>
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -867,31 +679,23 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" scheme="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014." scheme_uri="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020161">References</related_content>
-        <related_content scheme_uri="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-017-0745-9" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160." type="DOI">References</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Issued">2018-06-19 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
       <description_list>
         <description type="Abstract">The VLF/ELF crossed loop antenna data observed at Maimaga, Russia. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>63.06 129.56</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Maimaga, Russia</geolocation_place>
         </geolocation>
       </geolocation_list>
@@ -906,9 +710,9 @@
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/mam/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
-      <isas_citation>Shiokawa, K., D. G. Baishev, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Maimaga, Russia, archived in Common Data Format, DOI:10.34515/DATA.GND-0064-0002-0201_v01, 2022.</isas_citation>
+      <isas_citation>Shiokawa, K., D. G. Baishev, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Maimaga, Russia,  DOI:10.34515/DATA.GND-0064-0002-0201_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-12-02</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="7">
@@ -916,7 +720,7 @@
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0032-0002-0201_v01.html</url>
       <title_list>
         <titles>
-          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Moshiri, Japan, archived in Common Data Format</title>
+          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Moshiri, Japan</title>
           <subtitle>VLF/ELF crossed loop antenna data at MOS</subtitle>
         </titles>
       </title_list>
@@ -931,11 +735,9 @@
           <names>
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -945,11 +747,9 @@
           <names>
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -959,11 +759,9 @@
           <names>
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -976,37 +774,19 @@
         <day>31</day>
       </publication_date>
       <publisher>
-        <publisher_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names>
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" type="institute" contributor_type="Distributor">
           <names>
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -1017,31 +797,23 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" scheme="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014." scheme_uri="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020161">References</related_content>
-        <related_content type="DOI" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160." scheme_uri="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-017-0745-9">References</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Issued">2020-01-31 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
       <description_list>
         <description type="Abstract">The VLF/ELF crossed loop antenna data observed at Moshiri, Japan. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 5 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>44.37 142.27</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Moshiri, Japan</geolocation_place>
         </geolocation>
       </geolocation_list>
@@ -1056,9 +828,9 @@
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/mos/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
-      <isas_citation>Shiokawa, K., and Y. Otsuka, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Moshiri, Japan, archived in Common Data Format, DOI:10.34515/DATA.GND-0032-0002-0201_v01, 2022.</isas_citation>
+      <isas_citation>Shiokawa, K., and Y. Otsuka, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Moshiri, Japan, DOI:10.34515/DATA.GND-0032-0002-0201_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-12-02</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="8">
@@ -1081,11 +853,9 @@
           <names>
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -1095,11 +865,9 @@
           <names>
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -1109,11 +877,9 @@
           <names>
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -1126,37 +892,19 @@
         <day>03</day>
       </publication_date>
       <publisher>
-        <publisher_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names>
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" type="institute" contributor_type="Distributor">
           <names>
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -1167,31 +915,23 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" scheme="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014." scheme_uri="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020161">References</related_content>
-        <related_content type="DOI" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160." scheme_uri="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-017-0745-9">References</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Issued">2018-10-03 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
       <description_list>
         <description type="Abstract">The VLF/ELF crossed loop antenna data observed at Nain, Canada. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>56.54 -61.731</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Nain, Canada</geolocation_place>
         </geolocation>
       </geolocation_list>
@@ -1202,13 +942,12 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <multiple_resolution_priority/>
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/nai/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
-      <isas_citation>Shiokawa, K., M. Nose, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Nain, Canada, archived in Common Data Format, DOI:10.34515/DATA.GND-0033-0002-0201_v01, 2022.</isas_citation>
+      <isas_citation>Shiokawa, K., M. Nose, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Nain, Canada, DOI:10.34515/DATA.GND-0033-0002-0201_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-12-02</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="9">
@@ -1216,7 +955,7 @@
       <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0065-0002-0201_v01.html</url>
       <title_list>
         <titles>
-          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Oulujarvi, Finland, archived in Common Data Format</title>
+          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Oulujarvi, Finland</title>
           <subtitle>VLF/ELF crossed loop antenna data at OUJ</subtitle>
         </titles>
       </title_list>
@@ -1231,11 +970,9 @@
           <names>
             <last_name>Shinbori</last_name>
             <first_name>Atsuki</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -1245,11 +982,9 @@
           <names>
             <last_name>Otsuka</last_name>
             <first_name>Yuichi</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -1259,11 +994,9 @@
           <names>
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
-            <prefix/>
-            <suffix/>
           </names>
           <affiliation>
-            <affiliation_name>Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -1276,37 +1009,19 @@
         <day>05</day>
       </publication_date>
       <publisher>
-        <publisher_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
-        <location/>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
       </publisher>
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names>
-            <last_name/>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
         <contributor sequence="2" type="institute" contributor_type="Distributor">
           <names>
-            <last_name/>
             <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
-            <prefix/>
-            <suffix/>
           </names>
-          <affiliation>
-            <affiliation_name/>
-          </affiliation>
-          <researcher_id>
-            <id_code/>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -1317,31 +1032,23 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" scheme="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014." scheme_uri="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020161">References</related_content>
-        <related_content type="DOI" scheme="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69:160." scheme_uri="https://earth-planets-space.springeropen.com/articles/10.1186/s40623-017-0745-9">References</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
-      <alternate_identifier_list>
-        <alternate_identifier/>
-      </alternate_identifier_list>
       <content_language>en</content_language>
       <date_list>
         <date type="Issued">2022-12-05 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
-      <size_list>
-        <size/>
-      </size_list>
       <rights_list>
         <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
       <description_list>
         <description type="Abstract">The VLF/ELF crossed loop antenna data observed at Oulujarvi, Finland. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
       </description_list>
-      <signature/>
       <geolocation_list>
         <geolocation>
           <geolocation_point>64.51 27.23</geolocation_point>
-          <geolocation_box/>
           <geolocation_place>Oulujarvi, Finland</geolocation_place>
         </geolocation>
       </geolocation_list>
@@ -1352,13 +1059,12 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <multiple_resolution_priority/>
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/ouj/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
-      <isas_citation>Shiokawa, K., C. Martinez-Calderon, J. Manninen, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Oulujarvi, Finland, archived in Common Data Format, DOI:10.34515/DATA.GND-0065-0002-0201_v01, 2022.</isas_citation>
+      <isas_citation>Shiokawa, K., C. Martinez-Calderon, J. Manninen, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Oulujarvi, Finland, DOI:10.34515/DATA.GND-0065-0002-0201_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-12-05</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
   </body>
