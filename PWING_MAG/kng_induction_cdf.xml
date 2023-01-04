@@ -41,7 +41,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -53,7 +53,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
