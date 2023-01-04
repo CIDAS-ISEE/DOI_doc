@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><root>
   <head>
-    <error_process>0</error_process>
-    <!-- 継続 -->
+    <error_process>1</error_process>
     <result_method>0</result_method>
-    <!-- オンライン -->
     <content_classification>03</content_classification>
-    <!-- 研究データ -->
     <request_kind>01</request_kind>
-    <!-- 登録・更新 -->
   </head>
   <body>
     <site_id>SI/THERS.ISEE</site_id>
@@ -33,7 +29,7 @@
             <first_name>Atsuki</first_name>
           </names>
           <affiliation>
-            <affiliation_name lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
@@ -45,7 +41,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -57,7 +53,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
