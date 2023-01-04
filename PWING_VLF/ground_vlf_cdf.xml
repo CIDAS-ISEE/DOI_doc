@@ -45,7 +45,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -57,7 +57,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -162,7 +162,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -174,7 +174,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -238,7 +238,7 @@
         </fund>
       </fund_list>
       <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/gak/"/>
+        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/gak/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
       <isas_citation>Shiokawa, K., S.-I. Oyama, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Gakona, Alaska, USA,  DOI:10.34515/DATA.GND-0013-0002-0201_v01, 2022.</isas_citation>
       <isas_metadata_date_list>
@@ -279,7 +279,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -291,7 +291,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -396,7 +396,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -408,7 +408,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -514,7 +514,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -526,7 +526,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -631,7 +631,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -643,7 +643,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -706,7 +706,6 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <multiple_resolution_priority/>
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/mam/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
@@ -749,7 +748,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -761,7 +760,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -824,7 +823,6 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <multiple_resolution_priority/>
       <isas_data_list>
         <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/mos/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
@@ -867,7 +865,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -879,7 +877,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
@@ -984,7 +982,7 @@
             <first_name>Yuichi</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
@@ -996,7 +994,7 @@
             <first_name>Kazuo</first_name>
           </names>
           <affiliation>
-            <affiliation_name sequence="3" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
