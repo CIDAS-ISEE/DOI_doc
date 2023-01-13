@@ -1,4 +1,4 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?><root>
   <head>
     <error_process>1</error_process>
     <!-- 継続 -->
@@ -93,8 +93,8 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
-        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
+        <related_content type="DOI" relation="References">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -120,13 +120,9 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/ath/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
-      </isas_data_list>
-      <isas_citation>Shiokawa, K., M. Ozaki, Y. Otsuka, and M. Connors, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Athabasca, Canada, DOI:10.34515/DATA.GND-0004-0002-0201_v01, 2022.</isas_citation>
-      <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
-      </isas_metadata_date_list>
+      
+      
+      
     </content>
     <content sequence="2">
       <doi>10.34515/DATA.GND-0013-0002-0201_v01</doi>
@@ -210,8 +206,8 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
-        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
+        <related_content type="DOI" relation="References">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
       <content_language/>
       <date_list>
@@ -237,13 +233,9 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/gak/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
-      </isas_data_list>
-      <isas_citation>Shiokawa, K., S.-I. Oyama, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Gakona, Alaska, USA,  DOI:10.34515/DATA.GND-0013-0002-0201_v01, 2022.</isas_citation>
-      <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
-      </isas_metadata_date_list>
+      
+      
+      
     </content>
     <content sequence="3">
       <doi>10.34515/DATA.GND-0015-0002-0201_v01</doi>
@@ -327,8 +319,8 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
-        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
+        <related_content type="DOI" relation="References">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -354,13 +346,9 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/hus/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
-      </isas_data_list>
-      <isas_citation>Shiokawa, K., Y. Tanaka, A. Kadokura, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Husafell, Iceland, archived in Common Data Format, DOI:10.34515/DATA.GND-0015-0002-0201_v01, 2022.</isas_citation>
-      <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2022-12-01</isas_metadata_date>
-      </isas_metadata_date_list>
+      
+      
+      
     </content>
     <content sequence="4">
       <doi>10.34515/DATA.GND-0018-0002-0201_v01</doi>
@@ -444,8 +432,8 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
-        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
+        <related_content type="DOI" relation="References">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -471,13 +459,9 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/ist/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
-      </isas_data_list>
-      <isas_citation>Shiokawa, K., M. Ozaki, Y. Otsuka, N. Nishitani, A. Oinats, and V. Kurkin, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Istok, Russia, DOI:10.34515/DATA.GND-0018-0002-0201_v01, 2022.</isas_citation>
-      <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
-      </isas_metadata_date_list>
+      
+      
+      
     </content>
     <content sequence="5">
       <doi>10.34515/DATA.GND-0021-0002-0201_v01</doi>
@@ -561,8 +545,8 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
-        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
+        <related_content type="DOI" relation="References">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -588,13 +572,9 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/kap/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
-      </isas_data_list>
-      <isas_citation>Shiokawa, K., M. Ozaki, and Y. Otsuka, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Kapuskasing, Canada, DOI:10.34515/DATA.GND-0021-0002-0201_v01, 2022.</isas_citation>
-      <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
-      </isas_metadata_date_list>
+      
+      
+      
     </content>
     <content sequence="6">
       <doi>10.34515/DATA.GND-0064-0002-0201_v01</doi>
@@ -678,8 +658,8 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
-        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
+        <related_content type="DOI" relation="References">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -705,13 +685,9 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/mam/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
-      </isas_data_list>
-      <isas_citation>Shiokawa, K., D. G. Baishev, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Maimaga, Russia,  DOI:10.34515/DATA.GND-0064-0002-0201_v01, 2022.</isas_citation>
-      <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
-      </isas_metadata_date_list>
+      
+      
+      
     </content>
     <content sequence="7">
       <doi>10.34515/DATA.GND-0032-0002-0201_v01</doi>
@@ -795,8 +771,8 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
-        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
+        <related_content type="DOI" relation="References">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -822,13 +798,9 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/mos/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
-      </isas_data_list>
-      <isas_citation>Shiokawa, K., and Y. Otsuka, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Moshiri, Japan, DOI:10.34515/DATA.GND-0032-0002-0201_v01, 2022.</isas_citation>
-      <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
-      </isas_metadata_date_list>
+      
+      
+      
     </content>
     <content sequence="8">
       <doi>10.34515/DATA.GND-0033-0002-0201_v01</doi>
@@ -912,8 +884,8 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
-        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
+        <related_content type="DOI" relation="References">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -939,13 +911,9 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/nai/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
-      </isas_data_list>
-      <isas_citation>Shiokawa, K., M. Nose, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Nain, Canada, DOI:10.34515/DATA.GND-0033-0002-0201_v01, 2022.</isas_citation>
-      <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
-      </isas_metadata_date_list>
+      
+      
+      
     </content>
     <content sequence="9">
       <doi>10.34515/DATA.GND-0065-0002-0201_v01</doi>
@@ -1029,8 +997,8 @@
         <format>CDF</format>
       </format_list>
       <relation_list>
-        <related_content type="DOI" relation="References" title="Shiokawa,K., Y. Yokoyama, A. Ieda, Y. Miyoshi, R. Nomura, S. Lee, N. Sunagawa, Y. Miyashita, M. Ozaki, K. Ishizaka, S. Yagitani, R. Kataoka, F. Tsuchiya, I. Schofield, and M. Connors, Ground-based ELF/VLF chorus observations at subauroral latitudes—VLF-CHAIN campaign, J. Geophys. Res. Space Physics, 119, 7363–7379, doi:10.1002/2014JA020161, 2014.">10.1002/2014JA020161"</related_content>
-        <related_content type="DOI" relation="References" title="Shiokawa, K., Y. Kato, Y. Hamaguchi, Y. Yamamoto, T. Adachi, M. Ozaki, S.-I. Oyama, M. Nosé, et al. (2017), Ground-based instruments of the PWING project to investigate dynamics of the inner magnetosphere at subauroral latitudes as a part of the ERG-ground coordinated observation network, Earth Planets Space, 69, 160.">10.1186/s40623-017-0745-9"</related_content>
+        <related_content type="DOI" relation="References">10.1002/2014JA020161"</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9"</related_content>
       </relation_list>
       <content_language>en</content_language>
       <date_list>
@@ -1056,13 +1024,9 @@
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
-      <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/vlf/ouj/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
-      </isas_data_list>
-      <isas_citation>Shiokawa, K., C. Martinez-Calderon, J. Manninen, Y. Otsuka, and M. Ozaki, Magnetic field variation data measured by a ground ELF/VLF crossed loop antenna at Oulujarvi, Finland, DOI:10.34515/DATA.GND-0065-0002-0201_v01, 2022.</isas_citation>
-      <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-01-04</isas_metadata_date>
-      </isas_metadata_date_list>
+      
+      
+      
     </content>
   </body>
 </root>
