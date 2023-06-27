@@ -74,7 +74,7 @@
       </creator_list>
       <publication_date>
         <year>2018</year>
-        <month>8</month>
+        <month>08</month>
         <day>27</day>
       </publication_date>
       <publisher>
@@ -149,7 +149,7 @@
       <fund_list>
         <fund>
           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
-          <funder_identifier type="https://doi.org/10.13039/501100001691">FundRef</funder_identifier>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
@@ -159,7 +159,7 @@
       </isas_data_list>
       <isas_citation>Shiokawa, K., Y. Tanaka, and M. Connors, Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Athabasca, Canada, DOI:10.34515/DATA.GND-0004-0008-0101_v01, 2023</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-03-22</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-06-27</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="2">
@@ -298,7 +298,7 @@
       <fund_list>
         <fund>
           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
-          <funder_identifier type="https://doi.org/10.13039/501100001691">FundRef</funder_identifier>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
@@ -308,7 +308,7 @@
       </isas_data_list>
       <isas_citation>Shiokawa, K., and Y. Tanaka, Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Kapuskasing, Canada, DOI:10.34515/DATA.GND-0021-0008-0101_v01, 2023</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-04-27</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-06-27</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="3">
@@ -447,7 +447,7 @@
       <fund_list>
         <fund>
           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
-          <funder_identifier type="https://doi.org/10.13039/501100001691">FundRef</funder_identifier>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
@@ -457,7 +457,7 @@
       </isas_data_list>
       <isas_citation>Shiokawa, K., S. Oyama, and Y. Tanaka, Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Gakona, USA, DOI:10.34515/DATA.GND-0013-0008-0101_v01, 2023</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-04-27</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-06-27</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="4">
@@ -596,7 +596,7 @@
       <fund_list>
         <fund>
           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
-          <funder_identifier type="https://doi.org/10.13039/501100001691">FundRef</funder_identifier>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
@@ -606,7 +606,7 @@
       </isas_data_list>
       <isas_citation>Shiokawa, K., Y. Tanaka, and A. Kadokura, Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Husafell, Iceland, DOI:10.34515/DATA.GND-0015-0008-0101_v01, 2023</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-04-27</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-06-27</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="5">
@@ -745,7 +745,7 @@
       <fund_list>
         <fund>
           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
-          <funder_identifier type="https://doi.org/10.13039/501100001691">FundRef</funder_identifier>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
@@ -755,7 +755,7 @@
       </isas_data_list>
       <isas_citation>Shiokawa, K., Y. Tanaka, N. Nishitani, A. Oinats, V. Kurkin, and V. Aleshkov, Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Istok, Russia, DOI:10.34515/DATA.GND-0018-0008-0101_v01, 2023</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-04-28</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-06-27</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
     <content sequence="6">
@@ -894,7 +894,7 @@
       <fund_list>
         <fund>
           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
-          <funder_identifier type="https://doi.org/10.13039/501100001691">FundRef</funder_identifier>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
@@ -904,7 +904,7 @@
       </isas_data_list>
       <isas_citation>Shiokawa, K., Y. Tanaka, and D. G. Baishev, Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Zhigansk, Russia, DOI:10.34515/DATA.GND-0061-0008-0101_v01, 2023</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2023-04-28</isas_metadata_date>
+        <isas_metadata_date type="Issued">2023-06-27</isas_metadata_date>
       </isas_metadata_date_list>
     </content>
   </body>
