@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+  <head>
+    <!--error_processの値を0から１に変更 by A. Shinbori-->
+    <error_process>1</error_process>
+    <!-- 継続 -->
+    <result_method>0</result_method>
+    <!-- オンライン -->
+    <content_classification>03</content_classification>
+    <!-- 研究データ -->
+    <request_kind>01</request_kind>
+    <!-- 登録・更新 -->
+  </head>
+  <!--site_idの中身をSI/JST.JaLCからSI/THERS.ISEEに変更 by A. Shinbori-->
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <content sequence="1">
+      <doi>10.34515/DATA.GND-0004-0008-0101_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0004-0008-0101_v01</url>
+      <title_list>
+        <titles lang="en">
+          <title>Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Athabasca, Canada</title>
+          <subtitle>30 MHz broad-beam riometer data at ATH</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Cosmic radio noise absorption</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>08</month>
+        <day>27</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-08-27 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Cosmic radio noise data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/riometer/riometer_stations.html">Stations, Instruments, and Acknowledgements for the ISEE riometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">Cosmic radio noise measured with a ground 30 MHz broad-beam riometer at Athabasca, Canada. The data consist of output voltage, quiet-day curve, and cosmic radio noise with a time resolution of 64 Hz. The quiet-day curve is derived from an average output voltage for a period from -15 to 15 days at the center of the observed day.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>54.60 -113.64</geolocation_point>
+          
+          <geolocation_place>Athabasca, Canada</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="2">
+      <doi>10.34515/DATA.GND-0021-0008-0101_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0021-0008-0101_v01</url>
+      <title_list>
+        <titles lang="en">
+          <title>Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Kapuskasing, Canada</title>
+          <subtitle>30 MHz broad-beam riometer data at KAP</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Cosmic radio noise absorption</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>08</month>
+        <day>28</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-08-27 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Cosmic radio noise data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/riometer/riometer_stations.html">Stations, Instruments, and Acknowledgements for the ISEE riometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">Cosmic radio noise measured with a ground 30 MHz broad-beam riometer at Kapuskasing, Canada. The data consist of output voltage, quiet-day curve, and cosmic radio noise with a time resolution of 64 Hz. The quiet-day curve is derived from an average output voltage for a period from -15 to 15 days at the center of the observed day.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>49.39 -82.19</geolocation_point>
+          
+          <geolocation_place>Kapuskasing, Canada</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="3">
+      <doi>10.34515/DATA.GND-0013-0008-0101_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0013-0008-0101_v01</url>
+      <title_list>
+        <titles lang="en">
+          <title>Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Gakona, USA</title>
+          <subtitle>30 MHz broad-beam riometer data at GAK</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Cosmic radio noise absorption</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>08</month>
+        <day>27</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-08-27 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Cosmic radio noise data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/riometer/riometer_stations.html">Stations, Instruments, and Acknowledgements for the ISEE riometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">Cosmic radio noise measured with a ground 30 MHz broad-beam riometer at Gakona, USA. The data consist of output voltage, quiet-day curve, and cosmic radio noise with a time resolution of 64 Hz. The quiet-day curve is derived from an average output voltage for a period from -15 to 15 days at the center of the observed day.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>62.39 -145.22</geolocation_point>
+          
+          <geolocation_place>Gakona, USA</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="4">
+      <doi>10.34515/DATA.GND-0015-0008-0101_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0015-0008-0101_v01</url>
+      <title_list>
+        <titles lang="en">
+          <title>Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Husafell, Iceland</title>
+          <subtitle>30 MHz broad-beam riometer data at HUS</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Cosmic radio noise absorption</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>08</month>
+        <day>28</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-08-28 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Cosmic radio noise data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/riometer/riometer_stations.html">Stations, Instruments, and Acknowledgements for the ISEE riometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">Cosmic radio noise measured with a ground 30 MHz broad-beam riometer at Husafell, Iceland. The data consist of output voltage, quiet-day curve, and cosmic radio noise with a time resolution of 64 Hz. The quiet-day curve is derived from an average output voltage for a period from -15 to 15 days at the center of the observed day.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>64.67 -21.03</geolocation_point>
+          
+          <geolocation_place>Husafell, Iceland</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="5">
+      <doi>10.34515/DATA.GND-0018-0008-0101_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0018-0008-0101_v01</url>
+      <title_list>
+        <titles lang="en">
+          <title>Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Istok, Russia</title>
+          <subtitle>30 MHz broad-beam riometer data at IST</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Cosmic radio noise absorption</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2019</year>
+        <month>03</month>
+        <day>24</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2019-03-24 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Cosmic radio noise data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/riometer/riometer_stations.html">Stations, Instruments, and Acknowledgements for the ISEE riometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">Cosmic radio noise measured with a ground 30 MHz broad-beam riometer at Istok, Russia. The data consist of output voltage, quiet-day curve, and cosmic radio noise with a time resolution of 64 Hz. The quiet-day curve is derived from an average output voltage for a period from -15 to 15 days at the center of the observed day.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>70.03 88.01</geolocation_point>
+          
+          <geolocation_place>Istok, Russia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="6">
+      <doi>10.34515/DATA.GND-0061-0008-0101_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0061-0008-0101_v01</url>
+      <title_list>
+        <titles lang="en">
+          <title>Cosmic radio noise data measured with a ground 30 MHz broad-beam riometer at Zhigansk, Russia</title>
+          <subtitle>30 MHz broad-beam riometer data at ZGN</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Cosmic radio noise absorption</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>08</month>
+        <day>28</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-08-28 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Cosmic radio noise data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/riometer/riometer_stations.html">Stations, Instruments, and Acknowledgements for the ISEE riometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">Cosmic radio noise measured with a ground 30 MHz broad-beam riometer at Zhigansk, Russia. The data consist of output voltage, quiet-day curve, and cosmic radio noise with a time resolution of 64 Hz. The quiet-day curve is derived from an average output voltage for a period from -15 to 15 days at the center of the observed day.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>66.78 123.37</geolocation_point>
+          
+          <geolocation_place>Zhigansk, Russia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+  </body>
+</root>
