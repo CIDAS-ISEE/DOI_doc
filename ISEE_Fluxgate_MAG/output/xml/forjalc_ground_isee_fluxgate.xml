@@ -1,0 +1,1797 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+  <head>
+    <!--error_processの値を0から１に変更 by A. Shinbori-->
+    <error_process>1</error_process>
+    <!-- 継続 -->
+    <result_method>0</result_method>
+    <!-- オンライン -->
+    <content_classification>03</content_classification>
+    <!-- 研究データ -->
+    <request_kind>01</request_kind>
+    <!-- 登録・更新 -->
+  </head>
+  <!--site_idの中身をSI/JST.JaLCからSI/THERS.ISEEに変更 by A. Shinbori-->
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <content sequence="1">
+      <doi>10.34515/DATA.GND-0028-0001-0101-64hz-v01</doi>
+      <url>10.34515/DATA_GND-0028-0001-0101-64hz-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>64-Hz magnetic field data measured with a fluxgate magnetometer at Lucky Lake, Canada</title>
+          <subtitle>64-Hz fluxgate magnetometer data at Lucky Lake, Canada</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2020</year>
+        <month>08</month>
+        <day>12</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation> The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2020-08-12 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The fluxgate magnetometer data observed at Lucky Lake, Canada. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 64 Hz. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The fluxgate and induction magnetometer sensors are leftovers from the GADC project (by Dr. Kanji Hayashi of Univ. of Tokyo) and re-activated by the Athabasca University through the MAMA-MIA project. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>51.0 -107.1</geolocation_point>
+          
+          <geolocation_place>Lucky Lake, Canada</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="https://doi.org/10.13039/501100001691">FundRef</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="2">
+      <doi>10.34515/DATA.GND-0032-0001-0101-1sec-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0032-0001-0101-1sec-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-sec magnetic field data measured with a fluxgate magnetometer at Moshiri, Japan</title>
+          <subtitle> 1-sec fluxgate magnetometer data at Moshiri, Japan</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>21</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.5636/jgg.44.261</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-21 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-sec fluxgate magnetometer data observed at Moshiri, Japan. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>44.37 142.27</geolocation_point>
+          
+          <geolocation_place>Moshiri, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>22K21345, 21H04518, 16H06286, 25247080, 23403009, 18403011, 13640449, 5740308, 4044077</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="3">
+      <doi>10.34515/DATA.GND-0032-0001-0101-1min-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0032-0001-0101-1min-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-min magnetic field data measured with a fluxgate magnetometer at Moshiri, Japan</title>
+          <subtitle> 1-min fluxgate magnetometer data at Moshiri, Japan</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>12</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.5636/jgg.44.261</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-12 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-sec fluxgate magnetometer data observed at Moshiri, Japan. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>44.37 142.27</geolocation_point>
+          
+          <geolocation_place>Moshiri, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>22K21345, 21H04518, 16H06286, 25247080, 23403009, 18403011, 13640449, 5740308, 4044077</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="4">
+      <doi>10.34515/DATA.GND-0044-0001-0101-1sec-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0044-0001-0101-1sec-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-sec magnetic field data measured with a fluxgate magnetometer at Rikubetsu, Japan</title>
+          <subtitle>1-sec fluxgate magnetometer data at Rikubetsu, Japan</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>21</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1029/2004JA010706</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-21 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-sec fluxgate magnetometer data observed at Rikubetsu, Japan. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>43.46 143.77</geolocation_point>
+          
+          <geolocation_place>Rikubetsu, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>22K21345, 21H04518, 16H06286, 25247080, 23403009, 18403011, 13640449, 5740308, 4044077</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="5">
+      <doi>10.34515/DATA.GND-0044-0001-0101-1min-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0044-0001-0101-1min-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-min magnetic field data measured with a fluxgate magnetometer at Rikubetsu, Japan</title>
+          <subtitle>1-min fluxgate magnetometer data at Rikubetsu, Japan</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>21</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1029/2004JA010706</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-21 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-min fluxgate magnetometer data observed at Rikubetsu, Japan. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>43.46 143.77</geolocation_point>
+          
+          <geolocation_place>Rikubetsu, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>22K21345, 21H04518, 16H06286, 25247080, 23403009, 18403011, 13640449, 5740308, 4044077</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="6">
+      <doi>10.34515/DATA.GND-0019-0001-0101-1sec-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0019-0001-0101-1sec-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-sec magnetic field data measured with a fluxgate magnetometer at Kagoshima, Japan</title>
+          <subtitle>1-sec fluxgate magnetometer data at Kagoshima, Japan</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>21</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.5636/jgg.44.261</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-21 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-sec fluxgate magnetometer data observed at Kagoshima, Japan. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>31.48 130.72</geolocation_point>
+          
+          <geolocation_place>Kagoshima, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>22K21345, 21H04518, 16H06286, 25247080, 23403009, 18403011, 13640449, 5740308, 4044077</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="7">
+      <doi>10.34515/DATA.GND-0019-0001-0101-1min-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0019-0001-0101-1min-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-min magnetic field data measured with a fluxgate magnetometer at Kagoshima, Japan</title>
+          <subtitle>1-min fluxgate magnetometer data at Kagoshima, Japan</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetospheric dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>21</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.5636/jgg.44.261</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-21 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-min fluxgate magnetometer data observed at Kagoshima, Japan. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>31.48 130.72</geolocation_point>
+          
+          <geolocation_place>Kagoshima, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>22K21345, 21H04518, 16H06286, 25247080, 23403009, 18403011, 13640449, 5740308, 4044077</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="8">
+      <doi>10.34515/DATA.GND-0024-0001-0101-1sec-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0024-0001-0101-1sec-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-sec magnetic field data measured with a fluxgate magnetometer at Kototabang, Indonesia</title>
+          <subtitle>1-sec fluxgate magnetometer data at Kototabang, Indonesia</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetospheric dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>21</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1029/2018JA026094</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-21 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-sec fluxgate magnetometer data observed at Kototabang, Indonesia. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>-0.20  100.32</geolocation_point>
+          
+          <geolocation_place>Kototabang, Indonesia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>22K21345, 21H04518, 16H06286, 25247080, 23403009, 18403011, 13640449, 5740308, 4044077</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="9">
+      <doi>10.34515/DATA.GND-0024-0001-0101-1min-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0024-0001-0101-1min-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-min magnetic field data measured with a fluxgate magnetometer at Kototabang, Indonesia</title>
+          <subtitle>1-min fluxgate magnetometer data at Kototabang, Indonesia</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetospheric dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>21</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1029/2018JA026094</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-21 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-min fluxgate magnetometer data observed at Kototabang, Indonesia. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>-0.20  100.32</geolocation_point>
+          
+          <geolocation_place>Kototabang, Indonesia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>22K21345, 21H04518, 16H06286, 25247080, 23403009, 18403011, 13640449, 5740308, 4044077</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="10">
+      <doi>10.34515/DATA.GND-0031-0001-0101-1sec-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0031-0001-0101-1sec-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-sec magnetic field data measured with a fluxgate magnetometer at Middlemarch, New Zealand</title>
+          <subtitle>1-sec magnetic field data at Middlemarch, New Zealand</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetospheric dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2021</year>
+        <month>12</month>
+        <day>03</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1002/2015JA021096</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2021-12-03 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-sec fluxgate magnetometer data observed at Middlemarch, New Zealand. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>-45.60 170.09</geolocation_point>
+          
+          <geolocation_place>Middlemarch, New Zealand</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>19H01958, 24740333</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="11">
+      <doi>10.34515/DATA.GND-0031-0001-0101-1min-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.GND-0031-0001-0101-1min-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-min magnetic field data measured with a fluxgate magnetometer at Middlemarch, New Zealand</title>
+          <subtitle>1-min magnetic field data at Middlemarch, New Zealand</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetospheric dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2021</year>
+        <month>12</month>
+        <day>03</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1002/2015JA021096</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2021-12-03 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-min fluxgate magnetometer data observed at Middlemarch, New Zealand. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>-45.60 170.09</geolocation_point>
+          
+          <geolocation_place>Middlemarch, New Zealand</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>19H01958, 24740333</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="12">
+      <doi>10.34515/DATA.GND-0055-0001-0101-1sec-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0055-0001-0101-1sec-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-sec magnetic field data measured with a fluxgate magnetometer at Te Wharau, New Zealand</title>
+          <subtitle>1-sec magnetic field data at Te Wharau, New Zealand</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetospheric dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>21</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1002/2015JA021096</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-21 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-sec fluxgate magnetometer data observed at Te Wharau, New Zealand. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>41.18 175.83</geolocation_point>
+          
+          <geolocation_place>Te Wharau, New Zealand</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>19H01958, 24740333</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="13">
+      <doi>10.34515/DATA.GND-0055-0001-0101-1min-v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0055-0001-0101-1min-v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>1-min magnetic field data measured with a fluxgate magnetometer at Te Wharau, New Zealand</title>
+          <subtitle>1-min magnetic field data at Te Wharau, New Zealand</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetospheric dynamics</subject>
+        <subject lang="en">Magnetic field</subject>
+        <subject lang="en">Magnetospheric and ionospheric currents</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2">
+          <names lang="en">
+            
+            
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2017</year>
+        <month>11</month>
+        <day>21</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1002/2015JA021096</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2017-11-21 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Three-dimensional (H, D, and Z components) geomagnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for the ISEE fluxgate magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The 1-min fluxgate magnetometer data observed at Te Wharau, New Zealand. The data consist of variations of three-dimensional (H, D, and Z components) geomagnetic field taken with a sampling rate of 1 sec. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. The magnetometers at Moshiri, Rikubetsu, Kagoshima, and Sata have been operated in the ISEE observatory. We thank M. Sera, Y. Ikegami (Moshiri), K. Hanano and N. Yokozeki (Rikubetsu), late K. Hidaka (Kagoshima and Sata), all are the technical staff of STEL/ISEE for their kind and skillful support at these sites. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>41.18 175.83</geolocation_point>
+          
+          <geolocation_place>Te Wharau, New Zealand</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>19H01958, 24740333</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+  </body>
+</root>
