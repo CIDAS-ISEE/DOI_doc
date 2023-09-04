@@ -148,7 +148,7 @@
       <fund_list>
         <fund>
           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
-          <funder_identifier type="https://doi.org/10.13039/501100001691">FundRef</funder_identifier>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
         </fund>
       </fund_list>
@@ -1832,8 +1832,8 @@
         </creator>
         <creator sequence="2">
           <names lang="en">
-            <last_name></last_name>
-            <first_name></first_name>
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
             <prefix></prefix>
             <suffix></suffix>
           </names>
