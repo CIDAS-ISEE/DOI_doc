@@ -1841,7 +1841,7 @@
             <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
-            <id_code></id_code>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
           </researcher_id>
         </creator>
         <creator sequence="3" type="person">
