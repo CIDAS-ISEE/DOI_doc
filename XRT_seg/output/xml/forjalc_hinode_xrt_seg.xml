@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- The sample XML file for DOI registration in ISEE (2020.08 ver.)--><root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <content sequence="1">
+      <doi>10.34515/DATA.HSC-00002</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_HSC-00002.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Database for Solar Soft X-ray (Hinode/XRT) and (E)UV (SDO/AIA &amp; PROBA2/SWAP) Irradiance Variability Solar Cycle 24</title>
+          
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Hinode</subject>
+        <subject lang="en">The sun</subject>
+        <subject lang="en">Solar irradiance</subject>
+        <subject lang="en">coronal temperature</subject>
+        <subject lang="en">Solar segmentation</subject>
+        <subject lang="en">Solar Dynamics Observatory (SDO)</subject>
+        <subject lang="en">Project for OnBoard Autonomy 2 (Proba-2)</subject>
+        <subject lang="en">X-ray</subject>
+        <subject lang="en">UV and EUV</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="01" type="person">
+          <names lang="en">
+            <last_name>Haravari Narasimha Murthy </last_name>
+            <first_name>Adithya </first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Manipal Center for Natural Sciences, MAHE, Manipal, India</affiliation_name>
+            <affiliation_name sequence="2" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0009-0002-1177-9948</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="02" type="person">
+          <names lang="en">
+            <last_name>Kariyappa</last_name>
+            <first_name>Rangaiah</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="3" lang="en">Indian Institute of Astrophysics, Bengaluru, India</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6927-4806</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="03" type="person">
+          <names lang="en">
+            <last_name>Zender</last_name>
+            <first_name>Joe</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="4" lang="en">ESA European Space Technology Center (ESTEC), Netherlands </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0003-2728-3664</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="04" type="person">
+          <names lang="en">
+            <last_name>Masuda</last_name>
+            <first_name>Satoshi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5037-9758</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="05" type="person">
+          <names lang="en">
+            <last_name>Kusano</last_name>
+            <first_name>Kanya</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">
+	      Institute for Space-Earth Environmental Research, Nagoya University
+	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6814-6810</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="06" type="person">
+          <names lang="en">
+            <last_name>Shinsuke</last_name>
+            <first_name>Imada</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="5" lang="en"> Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo	    </affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-7891-3916</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="07" type="person">
+          <names lang="en">
+            <last_name>Dame</last_name>
+            <first_name>Luc</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="6" lang="en">CNRS/LATMOS- LATMOS (Laboratoire Atmosphères, Milieux, Observations Spatiales), France</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0003-2036-6432</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="08" type="person">
+          <names lang="en">
+            <last_name>DeLuca</last_name>
+            <first_name>Edward</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="7" lang="en">Harvard Smithsonian Center for Astrophysics, USA</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-7416-2895</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="09" type="person">
+          <names lang="en">
+            <last_name>Webber</last_name>
+            <first_name>Mark</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="7" lang="en">Harvard Smithsonian Center for Astrophysics, USA</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            
+          </researcher_id>
+        </creator>
+        <creator sequence="10" type="person">
+          <names lang="en">
+            <last_name>Giono</last_name>
+            <first_name>Gabriel</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="8" lang="en">Galileo Competence Center (GK-TTI), German Aerospace Center (DLR), Oberpfaffenhofen,  82234 Weßling, Germany</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            
+          </researcher_id>
+        </creator>
+        <creator sequence="11" type="person">
+          <names lang="en">
+            <last_name>Matsumoto</last_name>
+            <first_name>Takuma</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-1043-9944</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="12" type="person">
+          <names lang="en">
+            <last_name>van der Zwaard</last_name>
+            <first_name>Rens</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="9" lang="en">Delft University of Technology, Kluyverweg 1, 2629HS, Delft, The Netherlands</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-7293-692X</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="13" type="person">
+          <names lang="en">
+            <last_name>Bergmann</last_name>
+            <first_name>Matthias</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="10" lang="en">Iceye Oy, Maarintie 6, 02150, Espoo, Finland</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            
+          </researcher_id>
+        </creator>
+        <creator sequence="14" type="person">
+          <names lang="en">
+            <last_name>Dlouille</last_name>
+            <first_name>Veronique</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="11" lang="en">Royal Observatory of Belgium, Circular Avenue 3, 1180 Brussels, Belgium</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5307-8045</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="15" type="person">
+          <names lang="en">
+            <last_name>Verbeeck</last_name>
+            <first_name>Cis</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="11" lang="en">Royal Observatory of Belgium, Circular Avenue 3, 1180 Brussels, Belgium</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-5022-4534</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2023</year>
+        
+        
+        
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">
+	  Hinode Science Center, Institute for Space-Earth Environmental Research, Nagoya University
+	</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>Hinode Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+            
+          </names>
+          <affiliation>
+            
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use, containing fully-calibrated data in physical units</variation>
+        <version>v1.0 (latest as of June, 2023)</version>
+      </edition>
+      <format_list>
+        <format>FITS</format>
+        <format>CSV</format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References">10.1007/s11207-021-01785-6</related_content>
+        <related_content type="DOI" relation="References">10.1007/s11207-023-02190-x</related_content>
+        <related_content relation="References" type="DOI">10.1051/0004-6361/201322137</related_content>
+        <related_content relation="References" type="DOI">10.1051/0004-6361/201629924</related_content>
+        <related_content relation="References" type="DOI">10.5194/egusphere-egu2020-19496</related_content>
+        <related_content relation="References" type="DOI">10.1007/s11207-021-01863-9</related_content>
+        <related_content relation="References" type="DOI">10.1007/s11207-021-01918-x</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2023-11-24 (version: v1.0)</date>
+      </date_list>
+      <resource_type type="Dataset">XRT segmentation and temperature maps &amp; time series of the coronal feature</resource_type>
+      <rights_list>
+        <rights uri="https://hinode.isee.nagoya-u.ac.jp/xrt_seg/index.html">Terms of Use	</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">This database contains segmentation maps of solar Soft X-ray images (Hinode/XRT) , temperature image of solar corona (X-ray) and 
+time series of X-ray irradiance, temperature and photospheric magnetic field (SDO/HMI) of coronal features for the Solar Cycle 24. In addition it is provided the time series data (E)UV irradiance(SDO/AIA, PROBA2/SWAP) of coronal features.</description>
+      </description_list>
+      
+      
+      
+      
+      
+      
+      <geolocation_list>
+        <geolocation>
+          
+          
+          
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          
+          
+          
+        </fund>
+      </fund_list>
+      
+    </content>
+  </body>
+</root>
