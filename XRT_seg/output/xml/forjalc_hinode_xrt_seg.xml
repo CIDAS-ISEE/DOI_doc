@@ -28,7 +28,7 @@
         <subject lang="en">UV and EUV</subject>
       </subject_list>
       <creator_list>
-        <creator sequence="01" type="person">
+        <creator sequence="1" type="person">
           <names lang="en">
             <last_name>Haravari Narasimha Murthy </last_name>
             <first_name>Adithya </first_name>
@@ -43,7 +43,7 @@
             <id_code type="ORCID">https://orcid.org/0009-0002-1177-9948</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="02" type="person">
+        <creator sequence="2" type="person">
           <names lang="en">
             <last_name>Kariyappa</last_name>
             <first_name>Rangaiah</first_name>
@@ -58,7 +58,7 @@
             <id_code type="ORCID">https://orcid.org/0000-0002-6927-4806</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="03" type="person">
+        <creator sequence="3" type="person">
           <names lang="en">
             <last_name>Zender</last_name>
             <first_name>Joe</first_name>
@@ -72,7 +72,7 @@
             <id_code type="ORCID">https://orcid.org/0000-0003-2728-3664</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="04" type="person">
+        <creator sequence="4" type="person">
           <names lang="en">
             <last_name>Masuda</last_name>
             <first_name>Satoshi</first_name>
@@ -86,7 +86,7 @@
             <id_code type="ORCID">https://orcid.org/0000-0001-5037-9758</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="05" type="person">
+        <creator sequence="5" type="person">
           <names lang="en">
             <last_name>Kusano</last_name>
             <first_name>Kanya</first_name>
@@ -102,7 +102,7 @@
             <id_code type="ORCID">https://orcid.org/0000-0002-6814-6810</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="06" type="person">
+        <creator sequence="6" type="person">
           <names lang="en">
             <last_name>Shinsuke</last_name>
             <first_name>Imada</first_name>
@@ -116,7 +116,7 @@
             <id_code type="ORCID">https://orcid.org/0000-0001-7891-3916</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="07" type="person">
+        <creator sequence="7" type="person">
           <names lang="en">
             <last_name>Dame</last_name>
             <first_name>Luc</first_name>
@@ -130,7 +130,7 @@
             <id_code type="ORCID">https://orcid.org/0000-0003-2036-6432</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="08" type="person">
+        <creator sequence="8" type="person">
           <names lang="en">
             <last_name>DeLuca</last_name>
             <first_name>Edward</first_name>
@@ -144,7 +144,7 @@
             <id_code type="ORCID">https://orcid.org/0000-0001-7416-2895</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="09" type="person">
+        <creator sequence="9" type="person">
           <names lang="en">
             <last_name>Webber</last_name>
             <first_name>Mark</first_name>
@@ -154,9 +154,6 @@
           <affiliation>
             <affiliation_name sequence="7" lang="en">Harvard Smithsonian Center for Astrophysics, USA</affiliation_name>
           </affiliation>
-          <researcher_id>
-            
-          </researcher_id>
         </creator>
         <creator sequence="10" type="person">
           <names lang="en">
@@ -168,9 +165,6 @@
           <affiliation>
             <affiliation_name sequence="8" lang="en">Galileo Competence Center (GK-TTI), German Aerospace Center (DLR), Oberpfaffenhofen,  82234 Weßling, Germany</affiliation_name>
           </affiliation>
-          <researcher_id>
-            
-          </researcher_id>
         </creator>
         <creator sequence="11" type="person">
           <names lang="en">
@@ -210,9 +204,6 @@
           <affiliation>
             <affiliation_name sequence="10" lang="en">Iceye Oy, Maarintie 6, 02150, Espoo, Finland</affiliation_name>
           </affiliation>
-          <researcher_id>
-            
-          </researcher_id>
         </creator>
         <creator sequence="14" type="person">
           <names lang="en">
@@ -302,22 +293,6 @@ time series of X-ray irradiance, temperature and photospheric magnetic field (SD
       
       
       
-      
-      
-      <geolocation_list>
-        <geolocation>
-          
-          
-          
-        </geolocation>
-      </geolocation_list>
-      <fund_list>
-        <fund>
-          
-          
-          
-        </fund>
-      </fund_list>
       
     </content>
   </body>
