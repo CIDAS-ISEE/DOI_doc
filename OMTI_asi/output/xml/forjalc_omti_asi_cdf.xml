@@ -1,0 +1,3992 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+  <head>
+    <!--error_processの値を0から１に変更 by A. Shinbori-->
+    <error_process>1</error_process>
+    <!-- 継続 -->
+    <result_method>0</result_method>
+    <!-- オンライン -->
+    <content_classification>03</content_classification>
+    <!-- 研究データ -->
+    <request_kind>01</request_kind>
+    <!-- 登録・更新 -->
+  </head>
+  <!--site_idの中身をSI/JST.JaLCからSI/THERS.ISEEに変更 by A. Shinbori-->
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <content sequence="1">
+      <doi>10.34515/DATA.GND-0006-0001-0105_v01</doi>
+      <url> https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0001-0105_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Abuja, Nigeria</title>
+          <subtitle>All-sky imager data at ABU</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Yuichi</last_name>
+            <first_name>Otsuka</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>25</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units.</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-15 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Abuja, Nigeria, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, OI (777.4 nm), and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>3.99063 2.38359 13.99063 12.38359</geolocation_box>
+          <geolocation_place>Abuja, Nigeria</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="2">
+      <doi>10.34515/DATA.GND-0006-0004-0107_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0004-0107_v01.html </url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Athabasca, Canada</title>
+          <subtitle>All-sky imager data at ATH</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>25</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units.</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-25 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Athabasca, Canada, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), Hbeta (486.1 nm), Na (589.3 nm), OH-bands, and OI (844.6 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>49.71 -118.31 59.71 -108.31</geolocation_box>
+          <geolocation_place>Athabasca, Canada</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="3">
+      <doi>10.34515/DATA.GND-0006-0007-0102_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0007-0102_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Chiang Mai, Thailand</title>
+          <subtitle>All-sky imager data at CMU</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2022</year>
+        <month>08</month>
+        <day>08</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2022-08-08 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Chiang Mai, Thailand, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), Na (589.3 nm), OH-bands, and OI (844.6 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>13.79 93.92 23.79 103.92</geolocation_box>
+          <geolocation_place>Chiang Mai, Thailand</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="4">
+      <doi>10.34515/DATA.GND-0006-0009-0123_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0009-0123_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Chumphon, Thailand</title>
+          <subtitle>All-sky imager data at CPN</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2020</year>
+        <month>03</month>
+        <day>30</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2020-03-30 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Chumphon, Thailand, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, OI (777.4 nm), and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>5.73 94.37 15.73 104.37</geolocation_box>
+          <geolocation_place>Chumphon, Thailand</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="5">
+      <doi>10.34515/DATA.GND-0006-0010-0104_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0010-0104_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Darwin, Australia</title>
+          <subtitle>All-sky imager data at DRW</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>25</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-25 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Darwin, Australia, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, OI (777.4 nm), and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>-17.4 126.0 -7.4 136.0</geolocation_box>
+          <geolocation_place>Darwin, Australia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="6">
+      <doi>10.34515/DATA.GND-0006-0011-0115_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0011-0115_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Eureka, Canada</title>
+          <subtitle>All-sky imager data at EUR</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2020</year>
+        <month>03</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2020-03-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Eureka, Canada, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>75.0 -80.9 85.0 -70.9</geolocation_box>
+          <geolocation_place>Eureka, Canada</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="7">
+      <doi>10.34515/DATA.GND-0006-0013-0119_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0013-0119_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Gakona, Alaska, USA</title>
+          <subtitle>All-sky imager data at GAK</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>25</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-25 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Gakona, Alaska, USA, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>57.39 -140.22 67.39 -130.22</geolocation_box>
+          <geolocation_place>Gakona, Alaska, USA</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="8">
+      <doi>10.34515/DATA.GND-0006-0014-0102_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0014-0102_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Haleakala, Hawaii, USA</title>
+          <subtitle>All-sky imager data at HLK</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>25</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type=" RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-25 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Haleakala, Hawaii, USA, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), Na (589.3 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>15.71 -151.26 25.71 -141.26 </geolocation_box>
+          <geolocation_place>Haleakala, Hawaii, USA</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="9">
+      <doi>10.34515/DATA.GND-0006-0015-0121_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0015-0121_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Husafell, Iceland</title>
+          <subtitle>All-sky imager data at HUS</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>25</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-25 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract ">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Husafell, Iceland, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>59.67 -16.03 69.67 -6.03</geolocation_box>
+          <geolocation_place>Husafell, Iceland</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="10">
+      <doi>10.34515/DATA.GND-0006-0017-0108_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0017-0108_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Ishigaki, Japan</title>
+          <subtitle>All-sky imager data at ISG</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>25</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-25 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Ishigaki, Japan, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OI (777.4 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>19.4 119.1 29.4 129.1</geolocation_box>
+          <geolocation_place>Ishigaki, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="11">
+      <doi>10.34515/DATA.GND-0006-0018-0120_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0018-0120_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Istok, Russia</title>
+          <subtitle>All-sky imager data at IST</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2019</year>
+        <month>08</month>
+        <day>09</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2019-08-09 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Istok, Russia, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>65.03 78.01 75.03 88.01</geolocation_box>
+          <geolocation_place>Istok, Russia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="12">
+      <doi>10.34515/DATA.GND-0006-0067-0109_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0067-0109_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Ithaca, USA</title>
+          <subtitle>All-sky imager data at ITH</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>25</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-25 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Ithaca, USA, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm),  and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>37.5 -66.4 47.5 -56.4</geolocation_box>
+          <geolocation_place>Ithaca, USA</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="13">
+      <doi>10.34515/DATA.GND-0006-0021-0116_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0021-0116_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Kapuskasing, Canada</title>
+          <subtitle>All-sky imager data at KAP</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">&gt;https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>25</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-25  (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Kapuskasing, Canada, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>44.39 -72.19 54.39 -62.19</geolocation_box>
+          <geolocation_place>Kapuskasing, Canada</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="14">
+      <doi>10.34515/DATA.GND-0006-0024-0105_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0024-0105_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #5) with various filters at Kototabang, Indonesia</title>
+          <subtitle>All-sky imager data at KTB</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Kototabang, Indonesia, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OI (777.4 nm), OH-bands, and background (572.5 nm) emissions. The operation period of camera #5 is from October 26, 2002 to June 10, 2010.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>-5.2 105.3 5.2 115.3</geolocation_box>
+          <geolocation_place>Kototabang, Indonesia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="15">
+      <doi>10.34515/DATA.GND-0006-0024-0113_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0024-0113_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #13) with various filters at Kototabang, Indonesia</title>
+          <subtitle>All-sky imager data at KTB</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            
+            
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" contributor_type="Distributor" type="institute">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Kototabang, Indonesia, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OI (777.4 nm), OH-bands, and background (572.5 nm) emissions. The operation period of camera #13 is after June 11, 2010.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>-5.2 105.3 5.2 115.3</geolocation_box>
+          <geolocation_place>Kototabang, Indonesia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="16">
+      <doi>10.34515/DATA.GND-0006-0029-0111_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0029-0111_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Magadan, Russia</title>
+          <subtitle>All-sky imager data at MGD</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">&gt;https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Magadan, Russia, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OI (777.4 nm), Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>55.0513467 155.7292683 65.0513467 165.7292683</geolocation_box>
+          <geolocation_place>Magadan, Russia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="17">
+      <doi>10.34515/DATA.GND-0006-0033-0117_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0033-0117_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Nain, Canada</title>
+          <subtitle>All-sky imager data at NAI</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>10</month>
+        <day>03</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="institute" contributor_type="RightsHolder" type="institute">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-10-03</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Nain, Canada, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm),  
+Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>51.54 -66.731 61.54 -56.731</geolocation_box>
+          <geolocation_place>Nain, Canada</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="18">
+      <doi>10.34515/DATA.GND-0006-0037-0118_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0037-0118_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Nyrola, Finland</title>
+          <subtitle>All-sky imager data at NYR</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Nyrola, Finland, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm),  
+Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>57.34 20.51 62.34 30.51</geolocation_box>
+          <geolocation_place>Nyrola, Finland</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="19">
+      <doi>10.34515/DATA.GND-0006-0039-0110_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0039-0110_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Paratunka, Russia</title>
+          <subtitle>All-sky imager data at PTK</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            
+            
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Paratunka, Russia, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OI (777.4 nm), Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>47.9720466 153.24762 57.9720466 163.24762</geolocation_box>
+          <geolocation_place>Paratunka, Russia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="20">
+      <doi>10.34515/DATA.GND-0006-0044-0103_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0044-0103_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #3) with various filters at Rikubetsu, Japan</title>
+          <subtitle>All-sky imager data at RIK</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #3) with various filters at Rikubetsu, Japan, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, and background (572.5 nm) emissions. The operation period of Camera #3 is from Octber 20, 1998 to May 19, 2008.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>38.5 138.8 48.5 148.8</geolocation_box>
+          <geolocation_place>Rikubetsu, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="21">
+      <doi>10.34515/DATA.GND-0006-0044-0109_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0044-0109_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #9) with various filters at Rikubetsu, Japan</title>
+          <subtitle>All-sky imager data at RIK</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #9) with various filters at Rikubetsu, Japan, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, and background (572.5 nm) emissions. The operation period of Camera #3 is after May 20, 2008.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>38.5 138.8 48.5 148.8</geolocation_box>
+          <geolocation_place>Rikubetsu, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="22">
+      <doi>10.34515/DATA.GND-0006-0043-0106_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0044-0109_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Resolute Bay, Canada</title>
+          <subtitle>All-sky imager data at RSB</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Resolute Bay, Canada, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, Na (589.3 nm), OI (777.4 nm), and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>69.7 -99.9 79.7 -89.9</geolocation_box>
+          <geolocation_place>Resolute Bay, Canada</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="23">
+      <doi>10.34515/DATA.GND-0006-0047-0106_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0047-0101_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Shigaraki, Japan</title>
+          <subtitle>All-sky imager data at SGK</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Shigaraki, Japan, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, Na (589.3 nm), and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>29.8, 131.1 39.8, 141.1</geolocation_box>
+          <geolocation_place>Shigaraki, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="24">
+      <doi>10.34515/DATA.GND-0006-0046-0102_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0046-0102_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #2) with various filters at Sata, Japan</title>
+          <subtitle>All-sky imager data at STA</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #2) with various filters at Sata, Japan, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, and background (572.5 nm) emissions. The operation period of Camera #2 is from Jul 10, 2000 to Jul 15, 2009.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>26.0, 125.7 36.0, 135.7</geolocation_box>
+          <geolocation_place>Sata, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="25">
+      <doi>10.34515/DATA.GND-0006-0046-0103_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0046-0103_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #3) with various filters at Sata, Japan</title>
+          <subtitle>All-sky imager data at STA</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) (Camera #3) with various filters at Sata, Japan, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, and background (572.5 nm) emissions. The operation period of Camera #3 is from Octber 28, 2009 to April 8, 2021.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>26.0, 125.7 36.0, 135.7</geolocation_box>
+          <geolocation_place>Sata, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="26">
+      <doi>10.34515/DATA.GND-0006-0054-0102_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0054-0102_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Syowa Station, Antarctica</title>
+          <subtitle>All-sky imager data at SYO</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Syowa Station, Antarctica, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (630.0 nm), OH-bands, Na (589.3 nm), and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>-74.00, 34.59 -64.00, 24.59</geolocation_box>
+          <geolocation_place>Syowa Station, Antarctica</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="27">
+      <doi>10.34515/DATA.GND-0006-0059-0112_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0059-0112_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Tromsoe, Norway</title>
+          <subtitle>All-sky imager data at TRS</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Tromsoe, Norway, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, Na (589.3 nm), OI (732.0 nm), and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>64.59 14.227 74.59 24.227</geolocation_box>
+          <geolocation_place>Tromsoe, Norway</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="28">
+      <doi>10.34515/DATA.GND-0006-0060-0108_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0060-0108_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Yonaguni, Japan</title>
+          <subtitle>All-sky imager data at YNG</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2018</year>
+        <month>01</month>
+        <day>26</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2018-01-26 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Yonaguni, Japan, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, OI (777.4 nm), and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>19.5, 118.0 29.5, 128.0</geolocation_box>
+          <geolocation_place>Yonaguni, Japan</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+    <content sequence="29">
+      <doi>10.34515/DATA.GND-0006-0061-0105_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0006-0061-0105_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Zugspitze, Russia</title>
+          <subtitle>All-sky imager data at ZUG</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Upper atmospheric dynamics</subject>
+        <subject lang="en">Airglow</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2020</year>
+        <month>12</month>
+        <day>01</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2020-12-01 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">All-sky imager data</resource_type>
+      
+      <rights_list>
+        <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Zugspitze, Russia, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), OH-bands, OI (777.4 nm), and background (572.5 nm) emissions.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          
+          <geolocation_box>42.42 5.98 52.42 15.98</geolocation_box>
+          <geolocation_place>Zugspitze, Russia</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+    </content>
+  </body>
+</root>
