@@ -1100,7 +1100,7 @@
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="3">
+        <creator sequence="3" type="person">
           <names lang="en">
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
@@ -1125,7 +1125,7 @@
         <location>JPN</location>
       </publisher>
       <contributor_list>
-        <contributor sequence="1" type="institute" contributor_type=" RightsHolder">
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names lang="en">
             <last_name></last_name>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
@@ -2131,8 +2131,8 @@
         </creator>
         <creator sequence="2" type="person">
           <names lang="en">
-            <last_name></last_name>
-            <first_name></first_name>
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
             <prefix></prefix>
             <suffix></suffix>
           </names>
@@ -2480,7 +2480,7 @@
             <id_code></id_code>
           </researcher_id>
         </contributor>
-        <contributor sequence="institute" contributor_type="RightsHolder" type="institute">
+        <contributor sequence="2" contributor_type="RightsHolder" type="institute">
           <names lang="en">
             <last_name></last_name>
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
@@ -2729,8 +2729,8 @@ Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
         </creator>
         <creator sequence="2" type="person">
           <names lang="en">
-            <last_name></last_name>
-            <first_name></first_name>
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
             <prefix></prefix>
             <suffix></suffix>
           </names>
