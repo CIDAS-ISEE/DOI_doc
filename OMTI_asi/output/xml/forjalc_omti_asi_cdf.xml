@@ -1016,7 +1016,7 @@
             <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="3">
+        <creator sequence="3" type="person">
           <names lang="en">
             <last_name>Shiokawa</last_name>
             <first_name>Kazuo</first_name>
@@ -1041,7 +1041,7 @@
         <location>JPN</location>
       </publisher>
       <contributor_list>
-        <contributor sequence="1" type="institute" contributor_type=" RightsHolder">
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
           <names lang="en">
             
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
@@ -1224,7 +1224,7 @@
         <rights uri="https://stdb2.isee.nagoya-u.ac.jp/omti/">Acknowledgements for ISEE OMTI imager data</rights>
       </rights_list>
       <description_list>
-        <description lang="en" type="Abstract ">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Husafell, Iceland, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
+        <description lang="en" type="Abstract">All-sky imager data taken by an optical mesosphere thermosphere imager (OMTI) with various filters at Husafell, Iceland, in order to investigate the dynamics of the upper atmosphere through nocturnal airglow emissions. The image data consist of OI (557.7 nm), OI (630.0 nm), Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
       </description_list>
       
       <geolocation_list>
@@ -1963,8 +1963,8 @@
         </creator>
         <creator sequence="2" type="person">
           <names lang="en">
-            
-            
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
             
             
           </names>
@@ -2286,7 +2286,7 @@
           </affiliation>
           
         </contributor>
-        <contributor sequence="institute" contributor_type="RightsHolder" type="institute">
+        <contributor sequence="2" contributor_type="RightsHolder" type="institute">
           <names lang="en">
             
             <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
@@ -2513,8 +2513,8 @@ Hbeta (486.1 nm), OH-bands, and background (572.5 nm) emissions.</description>
         </creator>
         <creator sequence="2" type="person">
           <names lang="en">
-            
-            
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
             
             
           </names>
