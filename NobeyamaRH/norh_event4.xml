@@ -1,0 +1,130 @@
+<root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <content sequence="1">
+      <doi>10.34515/DATA.NORH-00000</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.NORH-00000.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>High-Cadence Microwave Images of Solar Flares Observed with Nobeyama Radioheliograph</title>
+          <subtitle>
+          </subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Nobeyama Radioheliograph</subject>
+        <subject lang="en">Sun</subject>
+        <subject lang="en">Solar flare</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Masuda</last_name>
+            <first_name>Satoshi</first_name>
+            <prefix>
+            </prefix>
+            <suffix>
+            </suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5037-9758</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Keitarou</last_name>
+            <first_name>Matsumoto</first_name>
+            <prefix>
+            </prefix>
+            <suffix>
+            </suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">New Jersey Institute of Technology</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0003-2002-0247</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Segawa</last_name>
+            <first_name>Tomonori</first_name>
+            <prefix>
+            </prefix>
+            <suffix>
+            </suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2023</year>
+        <month>
+        </month>
+        <day>
+        </day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">Center for Heliospheric Science, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <last_name>Center for Heliospheric Science, Institute for Space-Earth Environmental Research, Nagoya University
+            </last_name>
+            <first_name>
+            </first_name>
+            <prefix>
+            </prefix>
+            <suffix>
+            </suffix>
+          </names>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>Released images were synthesized by the default image-synthesis program in the solarsoft
+</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>(zipped) FITS and MPEG</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI" title="Matsumoto, K., S. Masuda, and T. Kaneko, Characteristics of the Accelerated Electrons Moving along the Loop Derived from Cyclical Microwave Brightenings at the Footpoints, ApJL, 955, L39 (8pp), 2023">10.3847/2041-8213/acf99c</related_content>
+        <related_content relation="IsDescribedBy" type="URL" title="The International Consortium for the Continued Operation of Nobeyama Radioheliograph (ICCON)">https://hinode.isee.nagoya-u.ac.jp/ICCON/</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2023-12-05 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Microwave images of the sun</resource_type>
+      <size_list>
+        <size>
+        </size>
+      </size_list>
+      <rights_list>
+        <rights uri="https://hinode.isee.nagoya-u.ac.jp/norh_event/index.html">Examples of Acknowledgement </rights>
+      </rights_list>
+      <description_list>
+        <description lang="en">This database contains microwave images in FITS format and movies in MPEG format for solar flares observed with Nobeyama Radioheliograph in the event-mode</description>
+      </description_list>
+      <signature>
+      </signature>
+      <multiple_resolution_priority>
+      </multiple_resolution_priority>
+    </content>
+  </body>
+</root>
