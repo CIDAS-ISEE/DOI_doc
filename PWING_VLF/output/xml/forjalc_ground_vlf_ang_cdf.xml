@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+  <head>
+    <!--error_processの値を0から１に変更 by A. Shinbori-->
+    <error_process>1</error_process>
+    <!-- 継続 -->
+    <result_method>0</result_method>
+    <!-- オンライン -->
+    <content_classification>03</content_classification>
+    <!-- 研究データ -->
+    <request_kind>01</request_kind>
+    <!-- 登録・更新 -->
+  </head>
+  <!--site_idの中身をSI/JST.JaLCからSI/THERS.ISEEに変更 by A. Shinbori-->
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <content sequence="1">
+      <doi>10.34515/DATA.GND-0068-0002-0204_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0068-0002-0204_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Magnetic field variation data measured by a ground VLF/ELF crossed loop antenna at Angeli, Finland</title>
+          <subtitle>VLF/ELF crossed loop antenna data at ANG</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">VLF Magnetic Field Waves</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2024</year>
+        <month>12</month>
+        <day>24</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI">10.1002/2014JA020161</related_content>
+        <related_content relation="References" type="DOI">10.1186/s40623-017-0745-9</related_content>
+      </relation_list>
+      
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2024-12-24 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">North-south and east-west magnetic field data</resource_type>
+      
+      <rights_list>
+        <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
+      </rights_list>
+      <access_rights date="20241224">open access</access_rights>
+      <description_list>
+        <description lang="en" type="Abstract">The VLF/ELF crossed loop antenna data observed at Angeli, Finland. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
+      </description_list>
+      
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>69.02 25.82</geolocation_point>
+          
+          <geolocation_place>Angeli, Finland</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number_group>
+            <program_id>1390117010</program_id>
+            <program_name>KAKENHI Research Projects under International Leading Research</program_name>
+            <project_name>International joint research of geospace variability by combining multi-point ground and satellite observations and modeling (PBASE program)</project_name>
+            <award_number>22K21345</award_number>
+          </award_number_group>
+        </fund>
+      </fund_list>
+      <repository>
+        <repository_name_list>
+          <repository_name lang="en">ERG Science Center</repository_name>
+          <repository_name lang="en">Nagoya Repository</repository_name>
+        </repository_name_list>
+      </repository>
+      
+      
+      
+      
+    </content>
+  </body>
+</root>

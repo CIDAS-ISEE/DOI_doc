@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <content sequence="1">
+      <doi>10.34515/DATA.GND-0019-0002-0101_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0019-0002-0101_v01.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Geomagnetic field variation data measured by a ground induction magnetometer at Kagoshima, Japan</title>
+          <subtitle>Induction magnetometer data at KAG</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Study of dynamical variation of particles and waves in the inner magnetosphere using ground-based network observations (PWING)</subject>
+        <subject lang="en">EARTH SCIENCE Sun-earth Interactions Ionosphere</subject>
+        <subject lang="en">Magnetosphere Dynamics</subject>
+        <subject lang="en">ULF Magnetic Field Waves</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shinbori</last_name>
+            <first_name>Atsuki</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6018-7431</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Otsuka</last_name>
+            <first_name>Yuichi</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-3098-3859</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shiokawa</last_name>
+            <first_name>Kazuo</first_name>
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-6842-1552</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2024</year>
+        <month>10</month>
+        <day>30</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            <first_name>Division for Ionospheric and Magnetospheric Research, Institute for Space and Earth Environmental Research, Nagoya University</first_name>
+            
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+        <contributor sequence="2" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <first_name>ERG Science Center, Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            
+            
+            
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Institute for Space and Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use containing fully-calibrated data in physical units</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content type="DOI" relation="References">10.5047/eps.2010.05.003</related_content>
+        <related_content type="DOI" relation="References">10.1186/s40623-017-0745-9</related_content>
+        <related_content type="URL" relation="IsDescribedBy">http://www.isee.nagoya-u.ac.jp/dimr/PWING/en/</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2024-10-30 (version: v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Two-dimensional (H and D components) geomagnetic field data</resource_type>
+      <rights_list>
+        <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING magnetometer data</rights>
+      </rights_list>
+      <description_list>
+        <description lang="en" type="Abstract">The induction magnetometer data observed at Kagoshima, Japan. The data consist of variations of two-dimensional (H and D components) geomagnetic field taken with a sampling rate of 64 Hz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. For frequencies below ~1Hz, use the following equation to obtain amplitude values in units of nT/s: dB/dt (nT/s) = data (V) / quick_sensitivity. The value of quick_sensitivity is given in global attributes. For frequencies above ~1Hz, use the exact sensitivity curve to obtain absolute amplitude of waves. 2. Please note that the positive direction (polarity) of H, D, and Z are different depending on the station. For example, in February 2011, the polarity is GAK: positive=northward, eastward, upward; MGD: positive=northward, eastward, downward; ATH: positive=northward, eastward, downward; MSR: positive=southward, westward, upward; STA: positive=northward, eastward, downward. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+      </description_list>
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>31.48 130.72</geolocation_point>
+          <geolocation_place>Kagoshima, Japan</geolocation_place>
+          
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number>16H06286</award_number>
+          <award_number_group>
+            <program_id>1390117010</program_id>
+            <program_name>KAKENHI Research Projects under International Leading Research</program_name>
+            <project_name>International joint research of geospace variability by combining multi-point ground and satellite observations and modeling (PBASE program)</project_name>
+            <award_number>22K21345</award_number>
+          </award_number_group>
+        </fund>
+      </fund_list>
+      
+      
+      
+      
+      
+      <access_rights date="20241030">open access</access_rights>
+      
+      <repository>
+        <repository_name_list>
+          <repository_name lang="en">ERG Science Center</repository_name>
+          <repository_name lang="en">Nagoya Repository</repository_name>
+        </repository_name_list>
+      </repository>
+      
+    </content>
+  </body>
+</root>
