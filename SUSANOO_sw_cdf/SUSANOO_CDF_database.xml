@@ -1,0 +1,163 @@
+<!-- The sample XML file for DOI registration in ISEE (2020.08 ver.)--><root>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <!-- ##########   SUSANOO   ########## -->
+    <content sequence="1">
+      <doi>10.34515/DATA.SUSANOO-00001</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_SUSANOO-00001.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>SUSANOO Heliosphere MHD model</title>
+          <subtitle>SUSANOO Solar Wind Data</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Space-weather-forecast-Usable System Anchored by Numerical Operations and Observations</subject>
+        <subject lang="en">SUSANOO</subject>
+        <subject lang="en">Heliosphere</subject>
+        <subject lang="en">Solar wind</subject>
+        <subject lang="en">MHD simulation</subject>
+        <subject lang="en">Planets</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Shiota</last_name>
+            <first_name>Daikou</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">National Institute of Information and Communications Technology</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-9032-8792</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Chiba</last_name>
+            <first_name>Shota</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0009-0001-4701-5862</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Miyoshi</last_name>
+            <first_name>Yoshizumi</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-7998-1240</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2025</year>
+        <year></year>
+        <month></month>
+        <day></day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">Center for Integrated Data Science, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            <first_name>Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            <last_name></last_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1"></affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code></id_code>
+          </researcher_id>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use, containing fully-calibrated data in physical units</variation>
+        <version>v01_01 (latest as of Apr, 2025)</version>
+      </edition>
+      <format_list>
+        <format>CDF</format>
+      </format_list>
+      <relation_list>
+        <related_content type="URL" relation="Project page" title="SUSANOO Project Page">https://cidas.isee.nagoya-u.ac.jp/susanoo/</related_content>
+        <related_content title="Shiota, D., Kataoka, R., Miyoshi, Y.,  Hara, T., Tao, C.,K. Masunaga, Y. Futaana, and N.Terada(2014), Inner heliosphere MHD modeling system applicable to space weather forecasting for the other planets,Space Weather,12,187–204" type="DOI" relation="References">10.1002/2013SW000989</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued"> 2025-04-07 (version: v01_01)</date>
+      </date_list>
+      <resource_type type="Dataset">Solar Wind Key Parameters</resource_type>
+      <rights_list>
+        <rights uri="https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_SUSANOO-00001.html">CC BY-NC-ND </rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">The dataset includes the solar wind data simulated by SUSANOO, which are archived in the Common Data Format (CDF). The data files can be accessed with various data analysis software such as SPEDAS as well as with web browsers.</description>
+      </description_list>
+      <isas_data_list>
+        <isas_data url="https://chs.isee.nagoya-u.ac.jp/data/chs/simulation/susanoo/data/cdf/">Directory of the dataset (all versions, Center for Heliospheric Science)</isas_data>
+      </isas_data_list>
+      <isas_citation>Shiota, D., Chiba, S., and Miyoshi, Y., The SUSANOO Solar wind data, DOI:10.34515/DATA_SUSANOO-00001.html, 2025.      </isas_citation>
+      <isas_metadata_date_list>
+        <isas_metadata_date type="Issued">2025-04-05</isas_metadata_date>
+      </isas_metadata_date_list>
+      <alternate_identifier_list>
+        <alternate_identifier></alternate_identifier>
+      </alternate_identifier_list>
+      <size_list>
+        <size></size>
+      </size_list>
+      <access_rights></access_rights>
+      <signature></signature>
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point></geolocation_point>
+          <geolocation_box></geolocation_box>
+          <geolocation_place></geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en"></funder_name>
+          <funder_identifier></funder_identifier>
+          <award_number_group>
+            <program_id></program_id>
+            <program_name></program_name>
+            <project_name></project_name>
+            <award_number></award_number>
+          </award_number_group>
+        </fund>
+      </fund_list>
+      <repository>
+        <repository_name_list>
+          <repository_name lang="en"></repository_name>
+        </repository_name_list>
+      </repository>
+      <multiple_resolution_priority></multiple_resolution_priority>
+    </content>
+    <!-- ##########   SUSANOO   ########## -->
+  </body>
+</root>
