@@ -1,0 +1,175 @@
+<root>
+  <head>
+    <!--error_processの値を0から１に変更 by A. Shinbori-->
+    <error_process>1</error_process>
+    <!-- 継続 -->
+    <result_method>0</result_method>
+    <!-- オンライン -->
+    <content_classification>03</content_classification>
+    <!-- 研究データ -->
+    <request_kind>01</request_kind>
+    <!-- 登録・更新 -->
+  </head>
+  <!--site_idの中身をSI/JST.JaLCからSI/THERS.ISEEに変更 by A. Shinbori-->
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <content sequence="1">
+      <doi>10.34515/DATA.TORP-00000</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.TORP-00000.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Database for scaned daily plots of Toyokawa Radio Polarimeters</title>
+          <subtitle></subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Toyokawa Radio Polarimeters</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Masuda</last_name>
+            <first_name>Satoshi</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5037-9758</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Matsumoto</last_name>
+            <first_name>Keitarou</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">New Jersey Institute of Technology</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0003-2002-0247</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Shimojo</last_name>
+            <first_name>Masumi</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">National Astronomical Observatory of Japan:</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-2350-3749</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="4" type="person">
+          <names lang="en">
+            <last_name>Hayakawa</last_name>
+            <first_name>Hisashi</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="2" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0001-5370-3365</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2023</year>
+        <month></month>
+        <day></day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">Center for Heliospheric Science, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="Distributor">
+          <names lang="en">
+            <last_name>Center for Heliospheric Science, Institute for Space-Earth Environmental Research, Nagoya University            </last_name>
+            <first_name></first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1"></affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code></id_code>
+          </researcher_id>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>time-series plots recorded in microfiche is scaned as digital image</variation>
+        <version>v01</version>
+      </edition>
+      <format_list>
+        <format>tiff</format>
+      </format_list>
+      <relation_list>
+        <related_content relation="References" type="DOI" title="Shimojo, M. and K. Iwai, Over seven decades of solar microwave data obtained with Toyokawa and Nobeyama Radio Polarimeters, Geoscience Data Journal, 10, 1, 114-129, 2023">10.1002/gdj3.165</related_content>
+        <related_content relation="References" type="DOI" title="Matsumoto, K., S. Masuda, M. Shimojo, and H. Hayakawa, Relationship of peak fluxes of solar radio bursts and X-ray class of solar flares: Application to early great solar flares, PASJ, 75, 6, 1095-1104, 2023">10.1093/pasj/psad058</related_content>
+      </relation_list>
+      <alternate_identifier_list>
+        <alternate_identifier></alternate_identifier>
+      </alternate_identifier_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued">2025-04-22 (version:v01)</date>
+      </date_list>
+      <resource_type type="Dataset">Timeseries plots in solar radio wave</resource_type>
+      <size_list>
+        <size></size>
+      </size_list>
+      <rights_list>
+        <rights uri="https://hinode.isee.nagoya-u.ac.jp/ToRP/">Examples of Acknowledgement </rights>
+      </rights_list>
+      <access_rights></access_rights>
+      <description_list>
+        <description lang="en">Photographs of time-series plots of solar radio waves (1, 2, 3.75, and 9.4 GHz) observed at the Nagoya University Aerospace Research Institute (Toyokawa City) from 1958 to 1978 has been stored in microfiche form.</description>
+      </description_list>
+      <signature></signature>
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point></geolocation_point>
+          <geolocation_box></geolocation_box>
+          <geolocation_place></geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en"></funder_name>
+          <funder_identifier></funder_identifier>
+          <award_number_group>
+            <program_id></program_id>
+            <program_name></program_name>
+            <project_name></project_name>
+            <award_number></award_number>
+          </award_number_group>
+        </fund>
+      </fund_list>
+      <repository>
+        <repository_name_list>
+          <repository_name lang="en"></repository_name>
+        </repository_name_list>
+      </repository>
+      <multiple_resolution_priority></multiple_resolution_priority>
+      <isas_data_list>
+        <isas_data url="https://hinode.isee.nagoya-u.ac.jp/ToRP/">Download page of the dataset (all versions, Center for Heliospheric Science)	</isas_data>
+      </isas_data_list>
+      <isas_citation>Masuda, S., K. Matsumoto, M. Shimojo, and H. Hayakawa, Database for scaned daily plots of Toyokawa Radio Polarimeters, DOI:10.34515/DATA.TORP-00000, 2025</isas_citation>
+      <isas_metadata_date_list>
+        <isas_metadata_date></isas_metadata_date>
+      </isas_metadata_date_list>
+    </content>
+  </body>
+</root>
