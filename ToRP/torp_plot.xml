@@ -48,7 +48,7 @@
             <suffix></suffix>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">New Jersey Institute of Technology</affiliation_name>
+            <affiliation_name sequence="1" lang="en">New Jersey Institute of Technology</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0003-2002-0247</id_code>
@@ -62,7 +62,7 @@
             <suffix></suffix>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">National Astronomical Observatory of Japan:</affiliation_name>
+            <affiliation_name sequence="1" lang="en">National Astronomical Observatory of Japan </affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0002-2350-3749</id_code>
@@ -76,7 +76,7 @@
             <suffix></suffix>
           </names>
           <affiliation>
-            <affiliation_name sequence="2" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code type="ORCID">https://orcid.org/0000-0001-5370-3365</id_code>
@@ -98,7 +98,7 @@
             <last_name></last_name>
             <prefix></prefix>
             <suffix></suffix>
-            <first_name>Center for Heliospheric Science, Institute for Space-Earth Environmental Research, Nagoya University            </first_name>
+            <first_name>Center for Heliospheric Science, Institute for Space-Earth Environmental Research, Nagoya University </first_name>
           </names>
         </contributor>
       </contributor_list>
