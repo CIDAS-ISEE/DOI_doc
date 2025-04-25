@@ -60,9 +60,6 @@
           <affiliation>
             <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
-          <researcher_id>
-            
-          </researcher_id>
         </creator>
       </creator_list>
       <publication_date>
@@ -81,12 +78,7 @@
             </last_name>
             
             
-            
           </names>
-          <affiliation>
-            
-          </affiliation>
-          
         </contributor>
       </contributor_list>
       <edition>
@@ -111,36 +103,12 @@
         <rights uri="https://hinode.isee.nagoya-u.ac.jp/norh_event/index.html">Examples of Acknowledgement </rights>
       </rights_list>
       <description_list>
-        <description lang="en">This database contains microwave images in FITS format and movies in MPEG format for solar flares observed with Nobeyama Radioheliograph in the event-mode</description>
+        <description lang="en" type="Abstract">This database contains microwave images in FITS format and movies in MPEG format for solar flares observed with Nobeyama Radioheliograph in the event-mode</description>
       </description_list>
       
       
       
       
-      <geolocation_list>
-        <geolocation>
-          
-          
-          
-        </geolocation>
-      </geolocation_list>
-      <fund_list>
-        <fund>
-          
-          
-          <award_number_group>
-            
-            
-            
-            
-          </award_number_group>
-        </fund>
-      </fund_list>
-      <repository>
-        <repository_name_list>
-          
-        </repository_name_list>
-      </repository>
       
       
       
