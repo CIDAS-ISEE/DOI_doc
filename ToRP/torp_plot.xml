@@ -96,16 +96,9 @@
         <contributor sequence="1" type="institute" contributor_type="Distributor">
           <names lang="en">
             <last_name>Center for Heliospheric Science, Institute for Space-Earth Environmental Research, Nagoya University            </last_name>
-            <first_name></first_name>
             <prefix></prefix>
             <suffix></suffix>
           </names>
-          <affiliation>
-            <affiliation_name lang="en" sequence="1"></affiliation_name>
-          </affiliation>
-          <researcher_id>
-            <id_code></id_code>
-          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
@@ -138,30 +131,6 @@
         <description lang="en">Photographs of time-series plots of solar radio waves (1, 2, 3.75, and 9.4 GHz) observed at the Nagoya University Aerospace Research Institute (Toyokawa City) from 1958 to 1978 has been stored in microfiche form.</description>
       </description_list>
       <signature></signature>
-      <geolocation_list>
-        <geolocation>
-          <geolocation_point></geolocation_point>
-          <geolocation_box></geolocation_box>
-          <geolocation_place></geolocation_place>
-        </geolocation>
-      </geolocation_list>
-      <fund_list>
-        <fund>
-          <funder_name lang="en"></funder_name>
-          <funder_identifier></funder_identifier>
-          <award_number_group>
-            <program_id></program_id>
-            <program_name></program_name>
-            <project_name></project_name>
-            <award_number></award_number>
-          </award_number_group>
-        </fund>
-      </fund_list>
-      <repository>
-        <repository_name_list>
-          <repository_name lang="en"></repository_name>
-        </repository_name_list>
-      </repository>
       <multiple_resolution_priority></multiple_resolution_priority>
       <isas_data_list>
         <isas_data url="https://hinode.isee.nagoya-u.ac.jp/ToRP/">Download page of the dataset (all versions, Center for Heliospheric Science)	</isas_data>
