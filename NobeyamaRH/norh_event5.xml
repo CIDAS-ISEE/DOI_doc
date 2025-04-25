@@ -74,11 +74,17 @@
       <contributor_list>
         <contributor sequence="1" type="institute" contributor_type="Distributor">
           <names lang="en">
-            <last_name>Center for Heliospheric Science, Institute for Space-Earth Environmental Research, Nagoya University
-            </last_name>
+            <last_name></last_name>
+            <first_name>Center for Heliospheric Science, Institute for Space-Earth Environmental Research, Nagoya University </first_name>
             <prefix></prefix>
             <suffix></suffix>
           </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1"></affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code></id_code>
+          </researcher_id>
         </contributor>
       </contributor_list>
       <edition>
