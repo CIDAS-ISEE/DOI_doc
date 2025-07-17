@@ -8,12 +8,12 @@
   <body>
     <site_id>SI/THERS.ISEE</site_id>
     <content sequence="1">
-      <doi>10.34515/DATA.GND-0019-0002-0101_v01</doi>
-      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0019-0002-0101_v01.html</url>
+      <doi>10.34515/DATA.GND-0070-0002-0101_v01</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA_GND-0070-0002-0101_v01.html</url>
       <title_list>
         <titles lang="en">
-          <title>Geomagnetic field variation data measured by a ground induction magnetometer at Kagoshima, Japan</title>
-          <subtitle>Induction magnetometer data at KAG</subtitle>
+          <title>Geomagnetic field variation data measured by a ground induction magnetometer at Cangar, Indonesia</title>
+          <subtitle>Induction magnetometer data at CNG</subtitle>
         </titles>
       </title_list>
       <subject_list>
@@ -67,8 +67,8 @@
         </creator>
       </creator_list>
       <publication_date>
-        <year>2024</year>
-        <month>10</month>
+        <year>2025</year>
+        <month>06</month>
         <day>30</day>
       </publication_date>
       <publisher>
@@ -119,19 +119,19 @@
       </relation_list>
       <content_language>en</content_language>
       <date_list>
-        <date type="Issued">2024-10-30 (version: v01)</date>
+        <date type="Issued">2025-06-30 (version: v01)</date>
       </date_list>
       <resource_type type="Dataset">Two-dimensional (H and D components) geomagnetic field data</resource_type>
       <rights_list>
         <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING magnetometer data</rights>
       </rights_list>
       <description_list>
-        <description lang="en" type="Abstract">The induction magnetometer data observed at Kagoshima, Japan. The data consist of variations of two-dimensional (H and D components) geomagnetic field taken with a sampling rate of 64 Hz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. For frequencies below ~1Hz, use the following equation to obtain amplitude values in units of nT/s: dB/dt (nT/s) = data (V) / quick_sensitivity. The value of quick_sensitivity is given in global attributes. For frequencies above ~1Hz, use the exact sensitivity curve to obtain absolute amplitude of waves. 2. Please note that the positive direction (polarity) of H, D, and Z are different depending on the station. For example, in February 2011, the polarity is GAK: positive=northward, eastward, upward; MGD: positive=northward, eastward, downward; ATH: positive=northward, eastward, downward; MSR: positive=southward, westward, upward; STA: positive=northward, eastward, downward. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
+        <description lang="en" type="Abstract">The induction magnetometer data observed at Cangar, Indonesia. The data consist of variations of two-dimensional (H and D components) geomagnetic field taken with a sampling rate of 64 Hz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. For frequencies below ~1Hz, use the following equation to obtain amplitude values in units of nT/s: dB/dt (nT/s) = data (V) / quick_sensitivity. The value of quick_sensitivity is given in global attributes. For frequencies above ~1Hz, use the exact sensitivity curve to obtain absolute amplitude of waves. 2. Please note that the positive direction (polarity) of H, D, and Z are different depending on the station. For example, in February 2011, the polarity is GAK: positive=northward, eastward, upward; MGD: positive=northward, eastward, downward; ATH: positive=northward, eastward, downward; MSR: positive=southward, westward, upward; STA: positive=northward, eastward, downward. Please see http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html for the latest information.</description>
       </description_list>
       <geolocation_list>
         <geolocation>
-          <geolocation_point>31.48 130.72</geolocation_point>
-          <geolocation_place>Kagoshima, Japan</geolocation_place>
+          <geolocation_point>-7.74 112.54</geolocation_point>
+          <geolocation_place>Cangar, Indonesia</geolocation_place>
           <geolocation_box></geolocation_box>
         </geolocation>
       </geolocation_list>
@@ -149,11 +149,11 @@
         </fund>
       </fund_list>
       <isas_data_list>
-        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/geomag/isee/induction/kag/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
+        <isas_data url="https://ergsc.isee.nagoya-u.ac.jp/data/ergsc/ground/geomag/isee/induction/cng/">Directory of the dataset (all versions, ERG Science Center)</isas_data>
       </isas_data_list>
-      <isas_citation>Shiokawa, K., and Y. Otsuka, Geomagnetic field variation data measured by a ground induction magnetometer at Kagoshima, Japan, DOI:10.34515/DATA.GND-0019-0002-0101_v01, 2024.</isas_citation>
+      <isas_citation>Nosé, M., Shiokawa, K., and Y. Otsuka, Geomagnetic field variation data measured by a ground induction magnetometer at Cangar, Indonesia, DOI:10.34515/DATA.GND-0070-0002-0101_v01, 2024.</isas_citation>
       <isas_metadata_date_list>
-        <isas_metadata_date type="Issued">2025-01-15</isas_metadata_date>
+        <isas_metadata_date type="Issued">2025-07-17</isas_metadata_date>
       </isas_metadata_date_list>
       <alternate_identifier_list>
         <alternate_identifier></alternate_identifier>
