@@ -128,7 +128,7 @@
       <rights_list>
         <rights uri="http://stdb2.isee.nagoya-u.ac.jp/magne/magne_stations.html">Stations, Instruments, and Acknowledgements for ISEE/PWING VLF/ELF data</rights>
       </rights_list>
-      <access_rights date="20241224">open access</access_rights>
+      <access_rights>open access</access_rights>
       <description_list>
         <description lang="en" type="Abstract">The VLF/ELF crossed loop antenna data observed at Angeli, Finland. The data consist of variations of two-dimensional (north-south and east-west) magnetic field taken with a sampling rate of 40 kHz, and some engineering parameters for the instrument, such as the sensitivity and phase difference. The digital data are distributed in the Common Data Format (CDF) through the ERG-SC repository. Important Notes: 1. Sensitivity peak at 8 kHz. 2. ch.1: VLF-NS, ch.2: VLF-EW, ch.3: GPS 1pps. ch:1(VLF-NS): E-W antenna measuring NS magnetic field variation. ch:2(VLF-EW): N-S antenna measuring EW magnetic field variation 3. Please see https://stdb2.isee.nagoya-u.ac.jp/vlf/vlf_stations.html for the latest information.</description>
       </description_list>
@@ -155,7 +155,6 @@
       <repository>
         <repository_name_list>
           <repository_name lang="en">ERG Science Center</repository_name>
-          <repository_name lang="en">Nagoya Repository</repository_name>
         </repository_name_list>
       </repository>
       
