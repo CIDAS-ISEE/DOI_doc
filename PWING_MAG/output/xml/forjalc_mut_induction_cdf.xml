@@ -84,7 +84,7 @@
             
           </names>
           <affiliation>
-            
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           
         </contributor>
@@ -96,7 +96,7 @@
             
           </names>
           <affiliation>
-            
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           
         </contributor>
@@ -136,6 +136,12 @@
           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
           <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
+          <award_number_group>
+            <program_id>1390117010</program_id>
+            <program_name>KAKENHI Research Projects under International Leading Research</program_name>
+            <project_name>International joint research of geospace variability by combining multi-point ground and satellite observations and modeling (PBASE program)</project_name>
+            <award_number>22K21345</award_number>
+          </award_number_group>
         </fund>
       </fund_list>
       
@@ -145,6 +151,12 @@
       
       
       
+      <access_rights>open access</access_rights>
+      <repository>
+        <repository_name_list>
+          <repository_name lang="en">ERG Science Center</repository_name>
+        </repository_name_list>
+      </repository>
     </content>
   </body>
 </root>
