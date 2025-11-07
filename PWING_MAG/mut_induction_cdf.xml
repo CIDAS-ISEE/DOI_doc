@@ -84,7 +84,7 @@
             <suffix></suffix>
           </names>
           <affiliation>
-            <affiliation_name lang="en" sequence="1"></affiliation_name>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code></id_code>
@@ -98,7 +98,7 @@
             <suffix></suffix>
           </names>
           <affiliation>
-            <affiliation_name lang="en" sequence="2"></affiliation_name>
+            <affiliation_name lang="en" sequence="1">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
             <id_code></id_code>
@@ -140,6 +140,12 @@
           <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
           <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
+          <award_number_group>
+            <program_id></program_id>
+            <program_name></program_name>
+            <project_name></project_name>
+            <award_number></award_number>
+          </award_number_group>
         </fund>
       </fund_list>
       <isas_data_list>
@@ -157,6 +163,12 @@
       </size_list>
       <signature></signature>
       <multiple_resolution_priority></multiple_resolution_priority>
+      <access_rights>open access</access_rights>
+      <repository>
+        <repository_name_list>
+          <repository_name lang="en">ERG Science Center</repository_name>
+        </repository_name_list>
+      </repository>
     </content>
   </body>
 </root>
