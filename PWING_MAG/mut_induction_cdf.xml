@@ -141,10 +141,10 @@
           <funder_identifier type="FundRef">https://doi.org/10.13039/501100001691</funder_identifier>
           <award_number>16H06286</award_number>
           <award_number_group>
-            <program_id></program_id>
-            <program_name></program_name>
-            <project_name></project_name>
-            <award_number></award_number>
+            <program_id>1390117010</program_id>
+            <program_name>KAKENHI Research Projects under International Leading Research</program_name>
+            <project_name>International joint research of geospace variability by combining multi-point ground and satellite observations and modeling (PBASE program)</project_name>
+            <award_number>22K21345</award_number>
           </award_number_group>
         </fund>
       </fund_list>
