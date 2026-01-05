@@ -119,7 +119,7 @@
       <resource_type type="Dataset">Solar Wind Key Parameters</resource_type>
       <rights_list>
         <rights uri="https://cidas.isee.nagoya-u.ac.jp/susanoo/">SUSANOO Project Page</rights>
-        <rights uri="https://chs.isee.nagoya-u.ac.jp/tool/ror/index.html">Rules of the Road for Users of the ISEE-SUSANOO System Products</rights>
+        <rights uri="https://chs.isee.nagoya-u.ac.jp/en/tool/ror/index.html">Rules of the Road for Users of the ISEE-SUSANOO System Products</rights>
       </rights_list>
       <description_list>
         <description type="Abstract" lang="en">The dataset includes the solar wind data simulated by SUSANOO, which are archived in the Common Data Format (CDF). The data files can be accessed with various data analysis software such as SPEDAS as well as with web browsers.</description>
