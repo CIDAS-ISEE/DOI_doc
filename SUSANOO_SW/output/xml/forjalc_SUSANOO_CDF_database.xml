@@ -79,8 +79,8 @@
       <publication_date>
         <year>2025</year>
         
-        
-        
+        <month>11</month>
+        <day>24</day>
       </publication_date>
       <publisher>
         <publisher_name lang="en">Center for Integrated Data Science, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
@@ -95,7 +95,7 @@
             
           </names>
           <affiliation>
-            
+            <affiliation_name lang="en" sequence="1">Nagoya University</affiliation_name>
           </affiliation>
           
         </contributor>
@@ -129,30 +129,30 @@
       
       
       
-      <geolocation_list>
+      <!-- <geolocation_list>
         <geolocation>
-          
-          
-          
+          <geolocation_point></geolocation_point>
+          <geolocation_box></geolocation_box>
+          <geolocation_place></geolocation_place>
         </geolocation>
-      </geolocation_list>
-      <fund_list>
+      </geolocation_list> -->
+      <!-- <fund_list>
         <fund>
-          
-          
+          <funder_name lang="en"></funder_name>
+          <funder_identifier></funder_identifier>
           <award_number_group>
-            
-            
-            
-            
+            <program_id></program_id>
+            <program_name></program_name>
+            <project_name></project_name>
+            <award_number></award_number>
           </award_number_group>
         </fund>
-      </fund_list>
-      <repository>
+      </fund_list> -->
+      <!-- <repository>
         <repository_name_list>
-          
+          <repository_name lang="en">Center for Heliospheric Science</repository_name>
         </repository_name_list>
-      </repository>
+      </repository> -->
       
     </content>
   </body>
