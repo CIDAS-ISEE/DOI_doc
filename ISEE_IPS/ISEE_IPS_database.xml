@@ -1,0 +1,200 @@
+<!-- The sample XML file for DOI registration in ISEE (2020.08 ver.)--><root>
+  <parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black">
+    <h3>This page contains the following errors:</h3>
+    <div style="font-family:monospace;font-size:12px">error on line 171 at column 7: Double hyphen within comment: &lt;!-- &lt;access_rights&gt;&lt;/access_rights&gt;
+      &lt;signature&gt;
+</div>
+    <h3>Below is a rendering of the page up to the first error.</h3>
+  </parsererror>
+  <head>
+    <error_process>1</error_process>
+    <result_method>0</result_method>
+    <content_classification>03</content_classification>
+    <request_kind>01</request_kind>
+  </head>
+  <body>
+    <site_id>SI/THERS.ISEE</site_id>
+    <!-- ##########   SUSANOO   ########## -->
+    <content sequence="1">
+      <doi>10.34515/DATA.IPS-00001</doi>
+      <url>https://www.isee.nagoya-u.ac.jp/doi/10.34515/DATA.IPS-00001.html</url>
+      <title_list>
+        <titles lang="en">
+          <title>Solar Wind Data by ISEE IPS observation</title>
+          <subtitle>Solar Wind Data by ISEE IPS observation</subtitle>
+        </titles>
+      </title_list>
+      <subject_list>
+        <subject lang="en">Solar wind</subject>
+        <subject lang="en">Inter planetary scintillation</subject>
+        <subject lang="en">Radio observation</subject>
+        <subject lang="en">Heliosphere</subject>
+      </subject_list>
+      <creator_list>
+        <creator sequence="1" type="person">
+          <names lang="en">
+            <last_name>Iwai</last_name>
+            <first_name>Kazumasa</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-2464-5212</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="2" type="person">
+          <names lang="en">
+            <last_name>Fujiki</last_name>
+            <first_name>Ken'ichi</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-7060-3750</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Chiba</last_name>
+            <first_name>Shota</first_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0009-0001-4701-5862</id_code>
+          </researcher_id>
+        </creator>
+      </creator_list>
+      <publication_date>
+        <year>2026</year>
+        <year></year>
+        <month>6</month>
+        <day>1</day>
+      </publication_date>
+      <publisher>
+        <publisher_name lang="en">Division for Heliospheric Research, Institute for Space-Earth Environmental Research, Nagoya University</publisher_name>
+        <location>JPN</location>
+      </publisher>
+      <contributor_list>
+        <contributor sequence="1" type="institute" contributor_type="RightsHolder">
+          <names lang="en">
+            <first_name>Institute for Space-Earth Environmental Research, Nagoya University</first_name>
+            <last_name></last_name>
+            <prefix></prefix>
+            <suffix></suffix>
+          </names>
+          <affiliation>
+            <affiliation_name lang="en" sequence="1">Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code></id_code>
+          </researcher_id>
+        </contributor>
+      </contributor_list>
+      <edition>
+        <variation>The official release version for scientific use, containing uncalibrated data</variation>
+        <version>v01.01 (latest as of June, 2026)</version>
+      </edition>
+      <format_list>
+        <format>netCDF</format>
+      </format_list>
+      <relation_list>
+        <related_content title="Kojima, M., Kakinuma, T. Solar cycle dependence of global distribution of solar wind speed. Space Sci Rev 53, 173–222 (1990)." type="DOI" relation="References">10.1007/BF00212754</related_content>
+      </relation_list>
+      <content_language>en</content_language>
+      <date_list>
+        <date type="Issued"> 2026-06-01 (version: v01.01)</date>
+      </date_list>
+      <resource_type type="Dataset">Radio intensity data at 327MHz</resource_type>
+      <rights_list>
+        <rights uri="https://stsw1.isee.nagoya-u.ac.jp/ips_data-e.html">ISEE solar wind  Project Page</rights>
+      </rights_list>
+      <description_list>
+        <description type="Abstract" lang="en">The dataset includes the solar wind data observed by ISEE IPS radio telescopes, which are archived in the network Common Data Format (netCDF). The data files can be accessed with various data analysis software such as SPEDAS as well as with web browsers.</description>
+      </description_list>
+      <isas_data_list>
+        <isas_data url="https://stsw1.isee.nagoya-u.ac.jp/vlist/">Directory of the dataset (all versions, Division for Heliospheric Research)</isas_data>
+      </isas_data_list>
+      <isas_citation>Iwai, K., Fujiki, K., and Chiba, S., The ISEE IPS data, DOI:10.34515/DATA.IPS-00001, 2026.     </isas_citation>
+      <isas_metadata_date_list>
+        <isas_metadata_date type="Issued">2025-11-24</isas_metadata_date>
+      </isas_metadata_date_list>
+      <alternate_identifier_list>
+        <alternate_identifier></alternate_identifier>
+      </alternate_identifier_list>
+      <size_list>
+        <size></size>
+      </size_list>
+      <access_rights></access_rights>
+      <signature></signature>
+      <!-- <geolocation_list>
+        <geolocation>
+          <geolocation_point></geolocation_point>
+          <geolocation_box></geolocation_box>
+          <geolocation_place></geolocation_place>
+        </geolocation>
+      </geolocation_list>>
+      <!-- <fund_list>
+        <fund>
+          <funder_name lang="en"></funder_name>
+          <funder_identifier></funder_identifier>
+          <award_number_group>
+            <program_id></program_id>
+            <program_name></program_name>
+            <project_name></project_name>
+            <award_number></award_number>
+          </award_number_group>
+        </fund>
+      </fund_list>>
+      <!-- <repository>
+        <repository_name_list>
+          <repository_name lang="en">Center for Heliospheric Science</repository_name>
+        </repository_name_list>
+      </repository>>
+      <multiple_resolution_priority></multiple_resolution_priority>
+      <geolocation_list>
+        <geolocation>
+          <geolocation_point>34.835 137.369</geolocation_point>
+          <geolocation_box></geolocation_box>
+          <geolocation_place>Toyokawa</geolocation_place>
+        </geolocation>
+        <geolocation>
+          <geolocation_point>35.427 138.612</geolocation_point>
+          <geolocation_box></geolocation_box>
+          <geolocation_place>Fuji</geolocation_place>
+        </geolocation>
+        <geolocation>
+          <geolocation_point>35.793 137.630</geolocation_point>
+          <geolocation_box></geolocation_box>
+          <geolocation_place>Kiso</geolocation_place>
+        </geolocation>
+      </geolocation_list>
+      <fund_list>
+        <fund>
+          <funder_name lang="en">Japan Society for the Promotion of Science (JSPS)</funder_name>
+          <funder_identifier>https://doi.org/10.13039/501100001691</funder_identifier>
+          <award_number_group>
+            <program_id></program_id>
+            <program_name>Grant-in-Aid for Scientific Research (S)</program_name>
+            <project_name></project_name>
+            <award_number>25K24625</award_number>
+          </award_number_group>
+        </fund>
+      </fund_list>
+      <repository>
+        <repository_name_list>
+          <repository_name lang="en"></repository_name>
+        </repository_name_list>
+      </repository>
+    </content>
+  </body>
+</root>
