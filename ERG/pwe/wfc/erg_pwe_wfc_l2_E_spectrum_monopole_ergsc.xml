@@ -129,10 +129,10 @@
             <suffix></suffix>
           </names>
           <affiliation>
-            <affiliation_name lang="en" sequence="1"></affiliation_name>
+            <affiliation_name lang="en" sequence="1">Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency</affiliation_name>
           </affiliation>
           <researcher_id>
-            <id_code></id_code>
+            <id_code type="ROR">https://ror.org/059yhyy33</id_code>
           </researcher_id>
         </contributor>
         <contributor sequence="2" type="institute" contributor_type="Distributor">
@@ -143,10 +143,10 @@
             <suffix></suffix>
           </names>
           <affiliation>
-            <affiliation_name lang="en" sequence="2"></affiliation_name>
+            <affiliation_name lang="en" sequence="2">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
           </affiliation>
           <researcher_id>
-            <id_code></id_code>
+            <id_code type="ROR">https://ror.org/04chrp450</id_code>
           </researcher_id>
         </contributor>
       </contributor_list>
@@ -188,33 +188,8 @@
       <isas_metadata_date_list>
         <isas_metadata_date type="Issued">2026-03-25</isas_metadata_date>
       </isas_metadata_date_list>
-      <alternate_identifier_list>
-        <alternate_identifier></alternate_identifier>
-      </alternate_identifier_list>
-      <size_list>
-        <size></size>
-      </size_list>
       <access_rights>open access</access_rights>
       <signature></signature>
-      <geolocation_list>
-        <geolocation>
-          <geolocation_point></geolocation_point>
-          <geolocation_box></geolocation_box>
-          <geolocation_place></geolocation_place>
-        </geolocation>
-      </geolocation_list>
-      <fund_list>
-        <fund>
-          <funder_name lang="en"></funder_name>
-          <funder_identifier></funder_identifier>
-          <award_number_group>
-            <program_id></program_id>
-            <program_name></program_name>
-            <project_name></project_name>
-            <award_number></award_number>
-          </award_number_group>
-        </fund>
-      </fund_list>
       <repository>
         <repository_name_list>
           <repository_name lang="en">ERG Science Center</repository_name>
