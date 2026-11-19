@@ -52,7 +52,19 @@
             <id_code type="ORCID">https://orcid.org/0000-0003-0321-7881</id_code>
           </researcher_id>
         </creator>
-        <creator sequence="3" type="person">
+	<creator sequence="3" type="person">
+          <names lang="en">
+            <last_name>Matsumoto</last_name>
+            <first_name>Takuma</first_name>
+          </names>
+          <affiliation>
+            <affiliation_name sequence="1" lang="en">Institute for Space-Earth Environmental Research, Nagoya University</affiliation_name>
+          </affiliation>
+          <researcher_id>
+            <id_code type="ORCID">https://orcid.org/0000-0002-1043-9944</id_code>
+          </researcher_id>
+        </creator>
+        <creator sequence="4" type="person">
           <names lang="en">
             <last_name>Segawa</last_name>
             <first_name>Tomonori</first_name>
